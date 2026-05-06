@@ -6,7 +6,7 @@ from transformers import AutoTokenizer
 dataset = load_dataset("wikimedia/wikipedia", "20231101.ur", split="train")  # small sample
 
 # Load CPT tokenizer
-tokenizer = AutoTokenizer.from_pretrained("unsloth/Llama-3.2-1B")  # replace with CPT model name
+tokenizer = AutoTokenizer.from_pretrained("unsloth/Qwen2.5-7B")  # replace with CPT model name
 
 # Function to count tokens
 def count_tokens(batch):
