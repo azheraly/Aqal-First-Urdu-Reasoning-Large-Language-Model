@@ -6,5 +6,10 @@
     {
         "model": "Alif-8B",
         "accuracy": 0.292
+    },
+    {
+        "model": "Qalb-1.0-8B-Instruct",
+        "accuracy": 0
     }
+
 ]
