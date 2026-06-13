@@ -1,15 +1,20 @@
 [
     {
-        "model": "Aqal-8B",
+        "model": "Aqal-1.0-8B-Instruct",
         "accuracy": 0.644
     },
     {
-        "model": "Alif-8B",
+        "model": "Alif-1.0-8B-Instruct",
         "accuracy": 0.292
     },
     {
         "model": "Qalb-1.0-8B-Instruct",
         "accuracy": 0
+    },
+    {
+        "model": "Aqal-1.0-8B",
+        "accuracy": 0
     }
 
 ]
+

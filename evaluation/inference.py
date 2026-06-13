@@ -1,36 +1,60 @@
 from unsloth import FastLanguageModel
+import torch
+import argparse
 
-model, tokenizer = FastLanguageModel.from_pretrained(
-    model_name = "Aqal-1.0-1.5B-instruct-lora",  # YOUR MODEL YOU USED FOR TRAINING
-    max_seq_length = 1048,
-    dtype = None,
-    load_in_4bit = False,
+max_seq_length = 2048  # Choose any! We auto support RoPE Scaling internally!
+dtype = (
+    None  # None for auto detection. Float16 for Tesla T4, V100, Bfloat16 for Ampere+
 )
-FastLanguageModel.for_inference(model)  # Enable native 2x faster inference
-
-# alpaca_prompt = You MUST copy from above!
-alpaca_prompt_urdu = """ذیل میں ایک ہدایت ہے جو ایک کام کی وضاحت کرتی ہے۔ ایک جواب لکھیں جو مناسب طریقے سے درخواست کو مکمل کرے۔ 
-#### ہدایات: 
-# {} 
-
-#### جواب: 
-# {}"""
-
-inputs = tokenizer(
-    [
-        alpaca_prompt_urdu.format(
-            # "Describe the planet Earth extensively.", # instruction
-            "سیارے زمین کی وسیع پیمانے پر وضاحت کریں۔",
-            "",  # output - leave this blank for generation!
-        ),
-    ],
-    return_tensors = "pt",
-).to("cuda")
+load_in_4bit = False  # Use 4bit quantization to reduce memory usage. Can be False.
+load_in_8bit = False  # Use 8bit quantization to reduce memory usage. Can be False.
 
 
-from transformers import TextStreamer
+def main(prompt):
+    model, tokenizer = FastLanguageModel.from_pretrained(
+        model_name="azherali/Aqal-1.0-8B-Instruct",  # Choose ANY
+        max_seq_length=max_seq_length,
+        dtype=dtype,
+        load_in_4bit=load_in_4bit,
+        load_in_8bit=load_in_8bit,
+        # token = "YOUR_HF_TOKEN", # HF Token for gated models
+    )
+    FastLanguageModel.for_inference(model)  # Enable native 2x faster inference
+    messages = [
+        {
+            "role": "user",
+            "content": prompt,
+        }
+    ]
+    text = tokenizer.apply_chat_template(
+        messages,
+        tokenize=False,
+        add_generation_prompt=True,  # Must add for generation
+    )
 
-text_streamer = TextStreamer(tokenizer)
-_ = model.generate(
-    **inputs, streamer = text_streamer, max_new_tokens = 128, repetition_penalty = 0.1
-)
+    from transformers import TextStreamer
+
+    _ = model.generate(
+        **tokenizer(text, return_tensors="pt").to("cuda"),
+        temperature=0.6,
+        top_p=0.95,
+        top_k=20,  # For non thinking
+        streamer=TextStreamer(tokenizer, skip_prompt=True),
+    )
+
+
+if __name__ == "__main__":
+    # i want to get prompt from user and then pass using argparse
+
+    parser = argparse.ArgumentParser(description="Inference script for the model")
+    parser.add_argument(
+        "--prompt",
+        type=str,
+        help="The prompt to generate text for",
+        required=True,
+        default="پانچ بچوں نے 20 چاکلیٹس برابر بانٹیں۔ ہر بچے کو کتنی چاکلیٹس ملیں گی؟",
+    )
+
+    args = parser.parse_args()
+
+    main(args.prompt)

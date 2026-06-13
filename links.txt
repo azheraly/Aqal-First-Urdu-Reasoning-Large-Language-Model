@@ -13,3 +13,6 @@ http://huggingface.co/datasets/azherali/UrduMath
 
 WIiki urdu
 https://huggingface.co/datasets/wikimedia/wikipedia/viewer/20231101.ur
+
+llm as judge
+https://arxiv.org/abs/2306.05685
