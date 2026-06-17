@@ -1,9 +1,5 @@
 # write a docstring
-""" This script evaluates
-
-"""
-
-
+"""This script evaluates"""
 
 from transformers import pipeline
 import torch
@@ -76,7 +72,7 @@ def main(file_path="../results/aqal-instruct_correct.csv"):
             * Assign an integer score from 1 to 5.
 
         ### Output Format
-            Return a valid JSON object only no text
+            Return a valid JSON object
             {{
                 "correctness": 1-5,
                 "reasoning": 1-5,
@@ -106,8 +102,38 @@ def main(file_path="../results/aqal-instruct_correct.csv"):
 
 
 def summarize_llm_judge_results():
-    pass
     
+    files = {
+        "Alif-1.0-8B-Instruct": "alif_evaluation_scores.csv",
+        "Qalb-1.0-8B-Instruct": "qalb_evaluation_scores.csv",
+        "Aqal-1.0-8B-Instruct": "aqal_evaluation_scores.csv",
+    }
+    metrics = [
+        "correctness",
+        "reasoning",
+        "UrduLanguageFluency",
+        "clarity",
+        "completeness",
+    ]
+
+    rows = []
+
+    for model, file in files.items():
+        df = pd.read_csv(f"../results/{file}")
+
+        row = {"Models": model}
+
+        for metric in metrics:
+            mean = df[metric].mean()
+            std = df[metric].std()
+
+            row[metric] = f"{mean:.2f} ± {std:.2f}"
+
+        rows.append(row)
+
+    results = pd.DataFrame(rows)
+    return results
+
 
 if __name__ == "__main__":
     main()
