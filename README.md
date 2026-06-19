@@ -1,16 +1,15 @@
 # Urdu Reasoning LLM
 
-## Aqal: The First Urdu Reasoning Large Language Model through Continued Pretraining and GRPO-Based Reinforcement Learning
+## Riazi-8B: An Urdu Large Language Model for Mathematical Reasoning
 
 ------------------------------------------------------------------------
 
 # 1. Project Overview
 
-Aqal is the first reasoning-optimized Urdu Large Language Model (LLM) developed to improve multi-step reasoning, logical consistency, and final-answer correctness in Urdu. This project leverages a three-stage training pipeline combining Continued Pretraining, Supervised Fine-Tuning, and GRPO-based Reinforcement Learning.
+ Riazi-8B is the first reasoning-optimized Urdu Large Language Model (LLM) developed to improve multi-step reasoning, logical consistency, and final-answer correctness in Urdu. This project leverages a two-stage training pipeline combining Continued Pretraining and Supervised Fine-Tuning
 
 1.  Continued Pretraining (CPT)\
 2.  Supervised Fine-Tuning (SFT)\
-3.  GRPO-based Reinforcement Learning (RL)
 
 The system focuses on improving multi-step reasoning, logical
 consistency, and final-answer correctness in Urdu.
@@ -38,14 +37,10 @@ Python 3.10+ recommended.
 
 python script.py
 
-
-## GRPO Reinforcement Learning
-
-python training/grpo_trainer.py
-
+or 
+Notebook folder
 ------------------------------------------------------------------------
 
-# 5. Inference
 
 python evaluation/inference.py 
 
