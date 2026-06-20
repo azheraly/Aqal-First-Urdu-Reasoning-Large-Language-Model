@@ -1,5 +1,3 @@
-# Urdu Reasoning LLM
-
 ## Riazi-8B: An Urdu Large Language Model for Mathematical Reasoning
 
 ------------------------------------------------------------------------
