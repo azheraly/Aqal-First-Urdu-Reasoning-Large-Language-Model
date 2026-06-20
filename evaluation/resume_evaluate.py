@@ -1,9 +1,4 @@
-"""
-This script evaluates the model-generated responses in the "Instruct_correct.csv" file using a structured prompt and saves the evaluation results in "evaluation_scores.csv". 
-It also implements a checkpointing mechanism to resume evaluation from the last processed row in case of interruptions.
 
-
-"""
 
 from transformers import pipeline
 import torch

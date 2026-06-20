@@ -10,7 +10,9 @@
     {
         "model": "Qalb-1.0-8B-Instruct",
         "accuracy": 32
+    },
+    {
+        "model": "Llama-3.1-8B-Instruct",
+        "accuracy": 59.6
     }
-
 ]
-
