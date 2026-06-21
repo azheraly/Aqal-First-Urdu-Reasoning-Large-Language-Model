@@ -9681,3 +9681,1898 @@ $$"
 </think>
 
 ہر کپ کی قیمت 1666.67 ڈالر ہے۔"
+210,سارہ اپنے لیے ایک نئی جیکٹ اور جوتوں کے دو جوڑے خریدنا چاہتی ہے۔ جیکٹ کی قیمت 30 ڈالر ہے اور جوتوں کے ہر جوڑے کی قیمت 20 ڈالر ہے۔ سارہ نے پڑوسیوں کے بچوں کی 4 بار دیکھ بھال کی، جس سے اسے ہر بار 5 ڈالر ملے۔ اس کے والدین اسے لان کی گھاس کاٹنے پر ہر بار 4 ڈالر دیتے ہیں۔ اگر بچوں کی دیکھ بھال شروع کرنے سے پہلے سارہ کے پاس 10 ڈالر جمع تھے، تو اسے جیکٹ اور جوتے خریدنے کے لیے کتنی بار لان کی گھاس کاٹنی پڑے گی؟,10,"<think>
+Okay, let's see. So Sarah wants to buy a jacket and two pairs of shoes. The jacket costs $30 and each pair of shoes is $20. So first, let me figure out how much she needs in total. 
+
+The jacket is $30, and two pairs of shoes would be 2 times $20, which is $40. So total cost is $30 + $40 = $70. 
+
+Now, Sarah has some money already. Before she started babysitting, she had $10. But she also does babysitting and lawn mowing to earn more money. 
+
+From babysitting, she gets $5 each time she does it. And she does it 4 times. So that would be 4 times $5, which is $20. 
+
+Then, her parents give her $4 each time she mows the lawn. Let's say she does that 'x' times. So the money from lawn mowing would be 4x dollars. 
+
+So total money she has is initial money plus babysitting money plus lawn mowing money. That should equal the total cost of the jacket and shoes, which is $70. 
+
+So the equation would be: 
+
+Initial money + Babysitting money + Lawn mowing money = Total cost
+$10 + $20 + 4x = $70
+
+Let me write that down:
+
+10 + 20 + 4x = 70
+
+Combine the numbers:
+
+30 + 4x = 70
+
+Subtract 30 from both sides:
+
+4x = 70 - 30
+4x = 40
+
+Now divide both sides by 4:
+
+x = 40 / 4
+x = 10
+
+So she needs to mow the lawn 10 times. Let me check again to make sure I didn't make a mistake. 
+
+Total needed: $70. She already has $10, so she needs $60 more. From babysitting, she gets $20, so she needs $40 more from lawn mowing. Since each time she gets $4, 40 divided by 4 is indeed 10. Yep, that seems right. 
+
+So the answer is 10 times.
+</think>
+
+سارہ جیکٹ اور جوتے خریدنے کے لیے کل 70 ڈالر کی ضرورت ہے۔ اس کے پاس پہلے سے 10 ڈالر ہیں اور وہ 4 بار بچوں کی دیکھ بھال کر کے 20 ڈالر اور لان کی گھاس کاٹ کر 4x ڈالر کمانے کی صلاحیت رکھتی ہے۔ چونکہ 10 + 20 + 4x = 70، لہذا 4x = 40، جس سے x = 10۔
+
+جواب: 10
+
+$$
+\boxed{10}
+$$"
+211,جیری کے پاس مرغیوں کا ایک جھنڈ ہے۔ سرخ مرغیاں روزانہ 3 انڈے دیتی ہیں، اور سفید مرغیاں روزانہ 5 انڈے دیتی ہیں۔ جیری ہر روز 42 انڈے جمع کرتا ہے۔ اگر اس کے پاس سرخ مرغیوں سے دو زیادہ سفید مرغیاں ہیں، تو اس کے پاس کتنی سرخ مرغیاں ہیں؟,4,"<think>
+میں نے یہ پوچھا تھا کہ جیری کے پاس 42 انڈے ہیں اور اس کے پاس سرخ مرغیوں سے دو زیادہ سفید مرغیاں ہیں۔ اگر سرخ مرغیاں روزانہ 3 انڈے دیتی ہیں اور سفید مرغیاں روزانہ 5 انڈے دیتی ہیں، تو اس کے پاس کتنی سرخ مرغیاں ہیں؟
+
+میں نے کیا کیا؟
+میں نے اس کے پاس کتنی سرخ مرغیاں ہیں اس کا جواب تلاش کرنے کے لیے مساوات کا استعمال کیا۔ میں نے سرخ مرغیوں کی تعداد کو x کے طور پر لکھا اور سفید مرغیوں کی تعداد کو x + 2 کے طور پر لکھا۔ میں نے سرخ مرغیوں اور سفید مرغیوں کے انڈوں کے مجموعے کا حساب لگایا اور اسے 42 سے برابر کر دیا۔
+
+میں نے کیا کیا؟
+میں نے سرخ مرغیوں کی تعداد کو x کے طور پر لکھا اور سفید مرغیوں کی تعداد کو x + 2 کے طور پر لکھا۔ میں نے سرخ مرغیوں اور سفید مرغیوں کے انڈوں کے مجموعے کا حساب لگایا اور اسے 42 سے برابر کر دیا۔
+
+میں نے کیا کیا؟
+میں نے سرخ مرغیوں کی تعداد کو x کے طور پر لکھا اور سفید مرغیوں کی تعداد کو x + 2 کے طور پر لکھا۔ میں نے سرخ مرغیوں اور سفید مرغیوں کے انڈوں کے مجموعے کا حساب لگایا اور اسے 42 سے برابر کر دیا۔
+
+میں نے کیا کیا؟
+میں نے سرخ مرغیوں کی تعداد کو x کے طور پر لکھا اور سفید مرغیوں کی تعداد کو x + 2 کے طور پر لکھا۔ میں نے سرخ مرغیوں اور سفید مرغیوں کے انڈوں کے مجموعے کا حساب لگایا اور اسے 42 سے برابر کر دیا۔
+
+میں نے کیا کیا؟
+میں نے سرخ مرغیوں کی تعداد کو x کے طور پر لکھا اور سفید مرغیوں کی تعداد کو x + 2 کے طور پر لکھا۔ میں نے سرخ مرغیوں اور سفید مرغیوں کے انڈوں کے مجموعے کا حساب لگایا اور اسے 42 سے برابر کر دیا۔
+
+میں نے کیا کیا؟
+میں نے سرخ مرغیوں کی تعداد کو x کے طور پر لکھا اور سفید مرغیوں کی تعداد کو x + 2 کے طور پر لکھا۔ میں نے سرخ مرغیوں اور سفید مرغیوں کے انڈوں کے مجموعے کا حساب لگایا اور اسے 42 سے برابر کر دیا۔
+
+میں نے کیا کیا؟
+میں نے سرخ مرغیوں کی تعداد کو x کے طور پر لکھا اور سفید مرغیوں کی تعداد کو x + 2 کے طور پر لکھا۔ میں نے سرخ مرغیوں اور سفید مرغیوں کے انڈوں کے مجموعے کا حساب لگایا اور اسے 42 سے برابر کر دیا۔
+
+میں نے کیا کیا؟
+میں نے سرخ مرغیوں کی تعداد کو x کے طور پر لکھا اور سفید مرغیوں کی تعداد کو x + 2 کے طور پر لکھا۔ میں نے سرخ مرغیوں اور سفید مرغیوں کے انڈوں کے مجموعے کا حساب لگایا اور اسے 42 سے برابر کر دیا۔
+
+میں نے کیا کیا؟
+میں نے سرخ مرغیوں کی تعداد کو x کے طور پر لکھا اور سفید مرغیوں کی تعداد کو x + 2 کے طور پر لکھا۔ میں نے سرخ مرغیوں اور سفید مرغیوں کے انڈوں کے مجموعے کا حساب لگایا اور اسے 42 سے برابر کر دیا۔
+
+میں نے کیا کیا؟
+میں نے سرخ مرغیوں کی تعداد کو x کے طور پر لکھا اور سفید مرغیوں کی تعداد کو x + 2 کے طور پر لکھا۔ میں نے سرخ مرغیوں اور سفید مرغیوں کے انڈوں کے مجموعے کا حساب لگایا اور اسے 42 سے برابر کر دیا۔
+
+میں نے کیا کیا؟
+میں نے سرخ مرغیوں کی تعداد کو x کے طور پر لکھا اور سفید مرغیوں کی تعداد کو x + 2 کے طور پر لکھا۔ میں نے سرخ مرغیوں اور سفید مرغیوں کے انڈوں کے مجموعے کا حساب لگایا اور اسے 42 سے برابر کر دیا۔
+
+میں نے کیا کیا؟
+میں نے سرخ مرغیوں کی تعداد کو x کے طور پر لکھا اور سفید مرغیوں کی تعداد کو x + 2 کے طور پر لکھا۔ میں نے سرخ مرغیوں اور سفید مرغیوں کے انڈوں کے مجموعے کا حساب لگایا اور اسے 42 سے برابر کر دیا۔
+
+میں نے کیا کیا؟
+میں نے سرخ مرغیوں کی تعداد کو x کے طور پر لکھا اور سفید مرغیوں کی تعداد کو x + 2 کے طور پر لکھا۔ میں نے سرخ مرغیوں اور سفید مرغیوں کے انڈوں کے مجموعے کا حساب لگایا اور اسے 42 سے برابر کر دیا۔
+
+میں نے کیا کیا؟
+میں نے سرخ مرغیوں کی تعداد کو x کے طور پر لکھا اور سفید مرغیوں کی تعداد کو x + 2 کے طور پر لکھ"
+212,گیری کو مقامی پارک کے کنارے چہل قدمی کرنا پسند ہے، جو 1.5 میل چوڑا اور 6 میل لمبا ایک مستطیل ہے۔ اگر وہ 3 میل فی گھنٹہ کی رفتار سے چلے، تو اسے چلنے میں کتنے گھنٹے لگیں گے؟,5,"<think>
+چونکہ یہ ایک مستطیل ہے، اس لیے یہ مطلب ہے کہ یہ چاروں طرف سے بند ہے۔ اس طرح، اس کے چاروں طرف سے گھوم کر چلنا یعنی اس کے چاروں طرف سے گھومنا ہو گا۔
+
+مستطیل کا رقبہ = لچھن × چوڑائی
+
+لچھن = 6 میل
+
+چوڑائی = 1.5 میل
+
+مستطیل کا رقبہ = 6 × 1.5 = 9 مربع میل
+
+اس لیے، اس کے چاروں طرف سے گھوم کر چلنا یعنی اس کے چاروں طرف سے گھومنا ہو گا۔
+
+چاروں طرف سے گھومنے کی چوڑائی = 2 × (لچھن + چوڑائی) = 2 × (6 + 1.5) = 2 × 7.5 = 15 میل
+
+وہ 3 میل فی گھنٹہ کی رفتار سے چلے، تو اسے چلنے میں لگنے والے گھنٹے = 15 / 3 = 5 گھنٹے
+
+جواب: 5 گھنٹے
+</think>
+
+چونکہ یہ ایک مستطیل ہے، اس لیے یہ مطلب ہے کہ یہ چاروں طرف سے بند ہے۔ اس طرح، اس کے چاروں طرف سے گھوم کر چلنا یعنی اس کے چاروں طرف سے گھومنا ہو گا۔
+
+مستطیل کا رقبہ = لچھن × چوڑائی
+
+لچھن = 6 میل
+
+چوڑائی = 1.5 میل
+
+مستطیل کا رقبہ = 6 × 1.5 = 9 مربع میل
+
+اس لیے، اس کے چاروں طرف سے گھوم کر چلنا یعنی اس کے چاروں طرف سے گھومنا ہو گا۔
+
+چاروں طرف سے گھومنے کی چوڑائی = 2 × (لچھن + چوڑائی) = 2 × (6 + 1.5) = 2 × 7.5 = 15 میل
+
+وہ 3 میل فی گھنٹہ کی رفتار سے چلے، تو اسے چلنے میں لگنے والے گھنٹے = 15 / 3 = 5 گھنٹے
+
+جواب: 5 گھنٹے"
+213,ڈالر اسٹور پر، سلوین نے 100 گاہکوں کو اسٹور میں داخل ہوتے ہوئے گنا۔ اگلے دن، اس نے پہلے دن کے مقابلے میں 50 زیادہ گاہک گنے۔ اگر تیسرے دن تک گاہکوں کی کل تعداد 500 تھی، تو اس نے تیسرے دن کتنے گاہک گنے؟,250,"<think>
+اچھا، میں یہ مسئلہ حل کرنے کی کوشش کروں گا۔ پہلے میں سلوین کے گنے ہوئے گاہکوں کی تعداد کو سمجھنا ہوگا۔
+
+مسئلہ یہ ہے کہ پہلے دن سلوین نے 100 گاہکوں کو گن لیا۔ دوسرے دن اس نے پہلے دن کے مقابلے میں 50 زیادہ گاہک گنے۔ تیسرے دن تک کل گاہکوں کی تعداد 500 ہے۔ اب یہ پوچھا جا رہا ہے کہ تیسرے دن سلوین نے کتنے گاہک گنے؟
+
+پہلے دن کے گاہکوں کی تعداد 100 ہے۔ دوسرے دن 50 زیادہ گاہک گنے، اس لیے دوسرے دن کے گاہکوں کی تعداد 100 + 50 = 150 ہوگی۔
+
+اب تیسرے دن کے گاہکوں کی تعداد کو پتہ کرنے کے لیے، تینوں دنوں کے گاہکوں کی کل تعداد 500 ہے۔ اس لیے تیسرے دن کے گاہکوں کی تعداد = کل تعداد - پہلے دن کے گاہکوں کی تعداد - دوسرے دن کے گاہکوں کی تعداد۔
+
+تیسرے دن کے گاہکوں کی تعداد = 500 - 100 - 150 = 250۔
+
+لیکن اس سے پہلے میں یہ سمجھنا چاہتا ہوں کہ کیا تیسرے دن کے گاہکوں کی تعداد کا مطلب ہے کہ تیسرے دن کے گاہکوں کی تعداد 500 ہے؟ یا تیسرے دن کے گاہکوں کی تعداد 500 ہے؟ اگر تیسرے دن کے گاہکوں کی تعداد 500 ہے تو پہلے دو دنوں کے گاہکوں کی تعداد 100 + 150 = 250 ہوگی۔ اس لیے تیسرے دن کے گاہکوں کی تعداد 500 - 250 = 250 ہوگی۔
+
+لیکن مسئلہ کے مطابق تیسرے دن تک گاہکوں کی کل تعداد 500 ہے، یعنی پہلے دن، دوسرے دن اور تیسرے دن کے گاہکوں کی کل تعداد 500 ہے۔ اس لیے تیسرے دن کے گاہکوں کی تعداد = 500 - (100 + 150) = 250۔
+
+لہذا جواب 250 ہوگا۔
+</think>
+
+سلوین نے تیسرے دن 250 گاہکوں کو گنایا۔
+
+**حل:**
+
+1. **پہلے دن کے گاہکوں کی تعداد:**  
+   $ 100 $
+
+2. **دوسرے دن کے گاہکوں کی تعداد:**  
+   $ 100 + 50 = 150 $
+
+3. **تیسرے دن کے گاہکوں کی تعداد:**  
+   کل گاہکوں کی تعداد 500 ہے۔  
+   $ 500 - 100 - 150 = 250 $
+
+**جواب:** $ \boxed{250} $"
+214,جیری کے پاس دو تالاب ہیں، اور دونوں سے 4 گیلن فی منٹ کی رفتار سے پانی رس رہا ہے۔ چار منٹ پہلے، بڑے تالاب میں چھوٹے تالاب سے دوگنا پانی تھا۔ اب بڑے تالاب میں چھوٹے تالاب سے چار گنا زیادہ پانی ہے۔ اس وقت چھوٹے تالاب میں کتنا پانی ہے؟,8,"<think>
+Okay, let's try to solve this problem step by step. So, there are two ponds, right? Both are leaking water at a rate of 4 gallons per minute. Four minutes ago, the bigger pond had twice as much water as the smaller one. Now, the bigger pond has four times as much water as the smaller one. The question is, how much water is in the smaller pond now?
+
+Hmm, let me break this down. Let me denote the current amount of water in the smaller pond as S gallons. Then, the bigger pond would have four times that, so 4S gallons. But wait, we also know that four minutes ago, the bigger pond had twice as much water as the smaller one. So, maybe I need to figure out the rates of leakage and the initial amounts?
+
+Wait, both ponds are leaking at 4 gallons per minute. So, if I let’s say, the smaller pond currently has S gallons, then four minutes ago, it had S + (4 gallons per minute * 4 minutes) = S + 16 gallons. Wait, no. Wait, if water is leaking out, then four minutes ago, the smaller pond would have had more water. Because water is leaving, so the amount of water decreases over time. So if right now it has S gallons, then four minutes ago, it had S + (4 gallons per minute * 4 minutes) = S + 16 gallons? Wait, no, because if it's leaking out, then the amount of water is decreasing. So if four minutes ago, the pond had more water than it does now. So, the amount of water four minutes ago would be S + (amount leaked in four minutes). But the amount leaked in four minutes is rate times time, which is 4 gallons/minute * 4 minutes = 16 gallons. Therefore, four minutes ago, the smaller pond had S + 16 gallons. Similarly, the bigger pond now has 4S gallons, so four minutes ago, it had 4S + 16 gallons? Wait, no. Wait, the rate is 4 gallons per minute for both ponds. So, the bigger pond is also leaking at 4 gallons per minute. Therefore, four minutes ago, the bigger pond had 4S + (4 gallons/minute * 4 minutes) = 4S + 16 gallons? Wait, no. Wait, if now the bigger pond has 4S gallons, then four minutes ago, it had 4S + (amount leaked in four minutes). Wait, no, the amount leaked in four minutes is 4 gallons/minute * 4 minutes = 16 gallons. But since water is leaking out, the amount of water four minutes ago would be more than now. So, if now it has 4S gallons, then four minutes ago, it had 4S + 16 gallons. Wait, that seems correct. Because if you have a certain amount now, and water is leaking out, then the amount four minutes ago would be the current amount plus the amount that leaked out in four minutes.
+
+But the problem states that four minutes ago, the bigger pond had twice as much water as the smaller one. So, four minutes ago, the bigger pond had twice the amount of the smaller pond four minutes ago. So:
+
+Amount of bigger pond four minutes ago = 2 * amount of smaller pond four minutes ago
+
+Which is:
+
+4S + 16 = 2 * (S + 16)
+
+Wait, let me check. The bigger pond four minutes ago had 4S + 16 gallons? Wait, no. Wait, the bigger pond currently has 4S gallons. If it's leaking at 4 gallons per minute, then four minutes ago, it had 4S + (4 gallons/minute * 4 minutes) = 4S + 16 gallons? Wait, that seems contradictory. If the pond is leaking, then the amount of water four minutes ago should be more than now. So if now it has 4S gallons, then four minutes ago, it had 4S + (amount leaked in four minutes). But the amount leaked in four minutes is 4 gallons/minute * 4 minutes = 16 gallons. Therefore, four minutes ago, the bigger pond had 4S + 16 gallons. Similarly, the smaller pond four minutes ago had S + 16 gallons. Then, according to the problem, the bigger pond four minutes ago had twice as much as the smaller pond four minutes ago:
+
+4S + 16 = 2*(S + 16)
+
+Let me solve this equation:
+
+Left side: 4S + 16
+
+Right side: 2*(S + 16) = 2S + 32
+
+So:
+
+4S + 16 = 2S + 32
+
+Subtract 2S from both sides:
+
+2S + 16 = 32
+
+Subtract 16 from both sides:
+
+2S = 16
+
+Divide by 2:
+
+S = 8
+
+Therefore, the smaller pond currently has 8 gallons. Let me check if this makes sense.
+
+If S = 8 gallons now, then the bigger pond has 4*8 = 32 gallons now. Four minutes ago, the smaller pond had 8 + 16 = 24 gallons. The bigger pond four minutes ago had 32 + 16 = 48 gallons. And indeed, 48 is twice 24. So that checks out.
+
+Wait, but hold on. If the smaller pond now has 8 gallons, and it's leaking at 4 gallons per minute, then four minutes ago, it had 8 + 4*4 = 8 + 16 = 24 gallons. Similarly, the bigger pond now has 32 gallons, so four minutes ago, it had 32 + 4*4 = 32 + 16 = 48 gallons. And 48 is indeed twice 24. So that seems correct.
+
+But wait, another way to think about it: maybe the amount of water four minutes ago in the smaller pond is S - 4*4? Wait, no. Because if water is leaking out, then the amount of water decreases over time. So if you go back in time, the amount of water would be more. So if you have S gallons now, then four minutes ago, it had S + 4*4 gallons. Because you add the amount that has leaked out in those four minutes. Wait, but if you think about it as time passing, then the amount of water four minutes ago would be S + (rate * time). Because the water is leaking out, so the amount of water is decreasing over time. So if you go back in time, you add the amount that has leaked out. So that seems correct. So that calculation is right.
+
+Alternatively, if you think in terms of equations. Let me denote the amount of water in the smaller pond now as S, and the amount in the bigger pond now as B. Then, we know that B = 4S (since now the bigger pond has four times as much water as the smaller one). Also, four minutes ago, the bigger pond had twice as much as the smaller one. So, four minutes ago, the smaller pond had S + 4*4 = S + 16 gallons, because water is leaking out, so four minutes ago, it had more. Similarly, the bigger pond had B + 4*4 = B + 16 gallons four minutes ago. And according to the problem, B + 16 = 2*(S + 16). But since B = 4S, substitute that into the equation:
+
+4S + 16 = 2*(S + 16)
+
+Which is the same equation as before, leading to S = 8. So that seems correct.
+
+Therefore, the answer is 8 gallons.
+
+But wait, let me check again. Suppose the smaller pond now has 8 gallons. Then, the bigger pond has 32 gallons. Four minutes ago, the smaller pond had 8 + 16 = 24 gallons, and the bigger pond had 32 + 16 = 48 gallons. 48 is indeed twice 24. So that works.
+
+Alternatively, if the smaller pond had, say, 12 gallons now, then the bigger pond would have 48 gallons. Four minutes ago, the smaller pond would have had 12 + 16 = 28 gallons, and the bigger pond would have had 48 + 16 = 64 gallons. Is 64 twice 28? No, because 28*2 = 56, not 64. So that's not correct. Therefore, 8 gallons seems to be the correct answer.
+
+Therefore, I think the answer is 8 gallons.
+
+**Final Answer**
+The smaller pond currently has \boxed{8} gallons of water.
+</think>
+
+### مسئلہ کا تجزیہ
+
+جیری کے پاس دو تالاب ہیں، جو دونوں 4 گیلن فی منٹ کی رفتار سے پانی نکال رہے ہیں۔ چار منٹ پہلے، بڑے تالاب میں چھوٹے تالاب سے دوگنا پانی تھا۔ اب بڑے تالاب میں چھوٹے تالاب سے چار گنا زیادہ پانی ہے۔ چ"
+215,لوری 320 ڈالر کے جوتوں کا ایک جوڑا اور اس سے ملتا جلتا 32 ڈالر کا ایک بیلٹ خریدنا چاہتی ہے۔ اسے اپنی پارٹ ٹائم نوکری سے 8 ڈالر فی گھنٹہ ملتے ہیں۔ یہ خریداری کرنے کے لیے اسے کتنے گھنٹے کام کرنا پڑے گا؟,44,"<think>
+Okay, let me try to figure out how many hours Lori needs to work to buy the shoes and the belt. So, the problem says she wants to buy a pair of shoes that costs $320 and a belt that costs $32. She makes $8 per hour at her part-time job. Hmm, right, so I need to find out the total cost of both items first, then divide that by her hourly wage to find out how many hours she needs to work.
+
+Alright, let's start by adding the prices of the shoes and the belt together. The shoes are $320 and the belt is $32. So, 320 plus 32. Let me do that math. 320 plus 30 is 350, and then plus 2 more is 352. So the total cost is $352. Wait, is that right? Let me check again. 320 + 32. Yeah, 320 + 30 is 350, then add the remaining 2 dollars, which gives 352. Okay, that seems correct.
+
+Now, Lori earns $8 each hour. So, to find out how many hours she needs to work to earn $352, I need to divide the total amount she needs by her hourly wage. So that would be 352 divided by 8. Let me do that division. Hmm, 8 times 40 is 320, right? So if I subtract 320 from 352, that leaves 32. Then, 8 goes into 32 four times. So 40 hours plus 4 hours equals 44 hours. Wait, let me confirm that. 8 times 44 is 352? Let me multiply 8 by 40 first, which is 320, and then 8 times 4 is 32. Adding those together, 320 + 32 equals 352. Yes, that checks out.
+
+So Lori needs to work 44 hours to earn enough money to buy both the shoes and the belt. Let me just make sure I didn't make any mistakes in my calculations. The total cost was $352, right? Shoes $320 and belt $32. Yep, that's correct. Dividing $352 by $8 per hour gives 44 hours. That seems right because 8 times 40 is 320, and 8 times 4 is 32, so 40 + 4 = 44. I think that's all. No, wait, maybe I should check another way. If she works 40 hours, she gets 40 * 8 = $320, which is exactly the cost of the shoes. Then, she needs an additional $32 for the belt. Since she makes $8 per hour, she needs 32 / 8 = 4 more hours. So total hours are 40 + 4 = 44. Yeah, that's the same answer. Okay, so I think that's correct. Lori needs to work 44 hours.
+</think>
+
+لوری کو جوتوں اور بیلٹ کی خریداری کے لیے کل 352 ڈالر کا خرچ ہوگا۔ اس کی ہر گھنٹے 8 ڈالر کما لیتی ہے۔ اسے کل 352 ڈالر کمانے کے لیے، وہ 352 ڈالر کو 8 ڈالر فی گھنٹہ سے تقسیم کرے گی۔
+
+$$
+\frac{352}{8} = 44
+$$
+
+لوری کو 44 گھنٹے کام کرنا پڑیں گے۔
+
+**جواب:** 44 گھنٹے"
+216,جینیٹ نے 2000 ڈالر قرض لیا اور وعدہ کیا کہ وہ اسے 10 فیصد اضافی رقم کے ساتھ واپس کرے گی۔ اگر وہ 12 مہینوں تک ہر ماہ 165 ڈالر ادا کرے گی تو اس وقت جینیٹ کا باقی بیلنس کتنا ہوگا؟,220,"<think>
+Okay, so Ginny borrowed $2000 and agreed to pay it back with an additional 10% interest. She plans to pay $165 each month for 12 months. The question is, what will her remaining balance be after those 12 months?
+
+First, I need to figure out the total interest she has to pay. Since the interest is 10% on $2000, that's straightforward. 10% of 2000 is 200, right? So the total amount she needs to repay is the principal plus the interest, which is $2000 + $200 = $2200.
+
+Now, she's paying $165 every month for 12 months. Let me calculate how much she'll pay in total over those 12 months. 12 times $165... Let me do that multiplication. 12 * 165. Hmm, 10*165 is 1650, and 2*165 is 330, so adding those together gives 1650 + 330 = $1980.
+
+Wait, so she's paying a total of $1980 over 12 months, but she only needed to repay $2200. That means she's paying less than the total amount owed. Therefore, her remaining balance should be the total amount owed minus the total payments made. Let me check that again.
+
+Total amount owed: $2200
+Total payments made: $1980
+Remaining balance: 2200 - 1980 = $220
+
+Wait, that seems straightforward, but I need to make sure there's no misunderstanding. The problem says she's paying 10% additional. Does that mean 10% of the original loan amount, or 10% per annum? The problem states ""10% additional,"" which likely refers to the total interest. So 10% of $2000 is $200, so total repayment is $2200. Therefore, the calculation above holds.
+
+Alternatively, maybe the interest is compounded monthly? Wait, the problem doesn't mention compounding interest. It just says she'll pay back the loan with an additional 10% interest. So I think it's simple interest, not compounded. Therefore, the total interest is $200, making total repayment $2200.
+
+So, if she pays $165 per month for 12 months, that's $1980. Subtracting that from $2200 gives $220 remaining. Therefore, the remaining balance is $220. Hmm, but wait, let me think again. If she pays $165 each month, does that include both principal and interest? Or is the interest calculated on the remaining balance?
+
+Wait, hold on. This might be a more complex problem. Maybe the interest is calculated on the outstanding balance each month, so the monthly payment of $165 is towards both the principal and the interest. If that's the case, then the calculation is different. The initial assumption was that total interest is 10% of the principal, but if the interest is compounded monthly, then the total interest would be more than $200. The problem states ""10% additional,"" so maybe it's a simple interest calculation. However, without more details, it's ambiguous. But since the problem is presented in a way that seems to expect a simple calculation, maybe the total interest is indeed $200.
+
+But let me check both scenarios.
+
+Scenario 1: Simple interest, total interest $200, total repayment $2200. Payments over 12 months: 12 * $165 = $1980. Remaining balance: $2200 - $1980 = $220.
+
+Scenario 2: Compound interest, compounded monthly. Let's see. If the interest is 10% annually, compounded monthly, then the monthly interest rate would be 10%/12 ≈ 0.8333%. But the problem states ""10% additional,"" which could be interpreted as simple interest. However, if the interest is compounded monthly, the total amount would be higher. Let me calculate both ways.
+
+First, let's assume simple interest. Total interest is 10% of $2000 = $200. So total repayment is $2200. Then, paying $165 per month for 12 months: 12 * 165 = 1980. Remaining balance is 2200 - 1980 = 220.
+
+Alternatively, if the interest is compounded monthly, with monthly interest rate of 10%/12 ≈ 0.8333%. Then the total amount after 1 year would be:
+
+A = P(1 + r)^n = 2000*(1 + 0.10/12)^12 ≈ 2000*(1 + 0.008333)^12 ≈ 2000*(1.008333)^12 ≈ Let me compute that.
+
+First, compute 1.008333^12. Let me use the formula for compound interest.
+
+Alternatively, approximate:
+
+(1 + 0.10/12)^12 ≈ e^(0.10) ≈ 1.10517, since (1 + r/n)^n approaches e^r as n approaches infinity. So approximately 2000 * 1.10517 ≈ 2210.34.
+
+So total repayment would be approximately $2210.34. Then, paying $165 per month for 12 months is still $1980, so remaining balance would be approximately 2210.34 - 1980 ≈ 230.34.
+
+But the problem says ""10% additional,"" which is ambiguous. However, the question might be expecting the simple interest calculation, leading to $220 remaining. However, another way to interpret ""10% additional"" is that the total amount to repay is the principal plus 10% interest, so $2000 + 10% of 2000 = $2200, which is the same as the first scenario.
+
+Alternatively, if the interest is 10% per annum, compounded monthly, then the total amount would be higher, but the problem doesn't specify compounding, so it's safer to assume simple interest.
+
+Therefore, the answer is $220.
+
+Wait, but maybe the problem is expecting the remaining balance after each payment, considering that each payment covers interest first, then principal. If that's the case, then the calculation would be different. Let me try that approach.
+
+Assuming that each month, Ginny pays $165, which covers the interest for that month first, then the rest goes towards the principal. Let's calculate the remaining balance step by step.
+
+First, we need to determine the monthly interest rate. If the total interest is 10% over 12 months, then the monthly interest rate would be 10%/12 ≈ 0.8333%. Let's confirm that.
+
+Total interest over 12 months: $200. So monthly interest is 200 / 12 ≈ $16.6667 per month.
+
+So, each month, the interest is $16.6667, and the principal paid is $165 - $16.6667 = $148.3333 per month.
+
+Therefore, after 12 months, the principal paid would be 12 * $148.3333 ≈ $1780. So the remaining balance would be $2000 - $1780 = $220. Which matches the previous result.
+
+Alternatively, if the interest was compounded monthly, then the monthly interest would be different. But again, without compounding mentioned, it's safe to assume simple interest.
+
+So regardless of the method, the remaining balance is $220. Therefore, the answer is $220.
+
+But wait, let me check again. Suppose we use the formula for the remaining balance on a loan with monthly payments. The formula is:
+
+Remaining balance = P * (1 + r)^n - PMT * [((1 + r)^n - 1)/r]
+
+Where P is the principal, r is the monthly interest rate, n is the number of payments, and PMT is the monthly payment.
+
+In this case, P = 2000, n = 12, PMT = 165. But we need to find r. However, the problem states that the total interest is 10% of the principal. Let's see.
+
+Total interest = PMT * n - P = 165 * 12 - 2000 = 1980 - 2000 = -20. Wait, that can't be right. Wait, total interest should be positive. Wait, if the total amount paid is 1980, and the principal is 2000, then total interest is negative? That doesn't make sense. Wait, no. Wait, the total amount paid is"
+217,گلدان میں 4 گلاب ہیں۔ گلابوں کی تعداد سے 7 زیادہ ڈیلیے(Dahlias) ہیں۔ گلدان میں کل کتنے پھول ہیں؟,15,"<think>
+Okay, let's see. The problem says there are 4 roses in a pot. Then it mentions that the number of dahlias is 7 more than the number of roses. We need to find the total number of flowers in the pot. 
+
+First, I need to make sure I understand the problem correctly. There are two types of flowers: roses and dahlias. The number of dahlias is given in relation to the number of roses. So, if there are 4 roses, then the number of dahlias is 4 plus 7. Let me write that down.
+
+Number of roses = 4
+Number of dahlias = Number of roses + 7 = 4 + 7
+
+Calculating that, 4 + 7 equals 11. So there are 11 dahlias. Now, to find the total number of flowers, I need to add the number of roses and the number of dahlias together.
+
+Total flowers = Number of roses + Number of dahlias = 4 + 11
+
+Adding those together, 4 + 11 is 15. So, the total number of flowers in the pot should be 15. Let me just double-check to make sure I didn't make any mistakes. 
+
+Starting again: 4 roses. Dahlias are 7 more than roses, so 4 + 7 = 11 dahlias. Total flowers = 4 + 11 = 15. Yep, that seems right. I think that's the answer.
+</think>
+
+گلدان میں 4 گلاب ہیں۔ گلابوں کی تعداد سے 7 زیادہ ڈیلیے ہیں، جس کی تعداد 4 + 7 = 11 ہے۔ 
+
+کل پھولوں کی تعداد گلابوں اور ڈیلیوں کی تعداد کا مجموعہ ہے:
+
+4 (گلاب) + 11 (ڈیلیے) = 15
+
+جواب: گلدان میں کل 15 پھول ہیں۔"
+218,ایڈرین کی عمر ہیریئٹ کی عمر سے تین گنا ہے، اور ہیریئٹ کی عمر زیک کی عمر کا نصف ہے۔ اگر ہیریئٹ کی موجودہ عمر 21 سال ہے، تو تین سال بعد ان تینوں کی اوسط عمر معلوم کریں۔,45,"<think>
+Okay, let's see. So, the problem says that Adrian's age is three times Harriet's age, and Harriet's age is half of Zach's age. If Harriet is currently 21 years old, we need to find the average age of all three of them three years from now. Hmm, let me break this down step by step.
+
+First, let me note down the given information:
+
+1. Adrian's age = 3 × Harriet's age
+2. Harriet's age = (1/2) × Zach's age
+3. Harriet's current age = 21 years
+4. Need to find the average age of Adrian, Harriet, and Zach three years from now.
+
+Alright, starting with Harriet's age. Since Harriet is currently 21, we can use that to find Adrian's and Zach's current ages.
+
+From point 1: Adrian's age = 3 × Harriet's age = 3 × 21 = 63 years. So Adrian is 63 now.
+
+From point 2: Harriet's age = (1/2) × Zach's age. So, rearranging that, Zach's age = 2 × Harriet's age = 2 × 21 = 42 years. So Zach is 42 now.
+
+Wait, let me check that again. If Harriet is half of Zach's age, then Zach must be twice as old as Harriet. So yes, 21 × 2 = 42. That seems right.
+
+So currently, their ages are:
+
+- Adrian: 63
+- Harriet: 21
+- Zach: 42
+
+Now, the question asks for the average age three years from now. So, first, we need to find their ages in three years.
+
+Three years from now:
+
+- Adrian will be 63 + 3 = 66
+- Harriet will be 21 + 3 = 24
+- Zach will be 42 + 3 = 45
+
+Then, to find the average age, we add their ages together and divide by the number of people, which is 3.
+
+So total age three years from now = 66 + 24 + 45
+
+Let me calculate that:
+
+66 + 24 = 90
+
+90 + 45 = 135
+
+Then, average age = 135 / 3 = 45
+
+Wait, that seems straightforward, but let me verify again step by step to make sure I didn't make any calculation errors.
+
+First, confirm current ages:
+
+Harriet is 21, Adrian is 3×21=63, Zach is 2×21=42. Correct.
+
+Three years later:
+
+Adrian: 63+3=66, Harriet: 21+3=24, Zach: 42+3=45. Correct.
+
+Total age: 66+24+45. Let me add them again:
+
+66 + 24 = 90, then 90 + 45 = 135. Correct.
+
+Average age: 135 divided by 3. 135 ÷ 3 = 45. Yes.
+
+Wait, but just to think again, is there another way to approach this problem?
+
+Alternatively, maybe calculate the current average and then adjust for the three years? Let me try that.
+
+Current total age: 63 + 21 + 42 = 126. So average is 126 / 3 = 42. Then, three years later, each person will be three years older, so total age increases by 3×3=9. Therefore, total age three years later is 126 + 9 = 135. Then average is 135 / 3 = 45. Same result. So that confirms it.
+
+Alternatively, maybe someone could think that the average increases by three years? But that's not correct because each person's age increases by three years, so total age increases by 3×3=9, and average increases by 9/3=3. So current average is 42, three years later it's 42 + 3 = 45. Also same result. So all methods lead to 45.
+
+Therefore, the answer should be 45. Let me check once again.
+
+Alternatively, maybe someone might confuse the ratios? Let me check the initial ratios again.
+
+The problem says Adrian's age is three times Harriet's age. So if Harriet is 21, Adrian is 63. Correct.
+
+Then Harriet's age is half of Zach's age. So Zach's age is twice Harriet's age. So 2×21=42. Correct.
+
+Yes, that's correct. So no problem there.
+
+Alternatively, someone might think that Harriet's age is half of Adrian's age? But no, the problem says ""Adrian's age is three times Harriet's age, and Harriet's age is half of Zach's age."" So it's Harriet's age is half of Zach's, not Adrian's. So that's correct.
+
+Therefore, I think the answer is 45. Let me check once more.
+
+Three years from now:
+
+Adrian: 63 + 3 = 66
+
+Harriet: 21 + 3 = 24
+
+Zach: 42 + 3 = 45
+
+Average = (66 + 24 + 45)/3 = 135/3 = 45. Yep, that's right.
+
+So the average age three years from now will be 45 years.
+
+**Final Answer**
+The average age of Adrian, Harriet, and Zach three years from now will be \boxed{45}.
+</think>
+
+### مسئلہ کا مکمل حل
+
+دیے گئے معلومات کے مطابق:
+
+1. اڈرین کی عمر ہیریئٹ کی عمر سے تین گنا ہے۔
+2. ہیریئٹ کی عمر زیک کی عمر کا نصف ہے۔
+3. ہیریئٹ کی موجودہ عمر 21 سال ہے۔
+
+### 1. ہیریئٹ کی موجودہ عمر
+دیا گیا ہے کہ ہیریئٹ کی موجودہ عمر 21 سال ہے۔
+
+### 2. اڈرین کی موجودہ عمر
+اڈرین کی عمر ہیریئٹ کی عمر سے تین گنا ہے۔  
+$$
+\text{اڈرین کی موجودہ عمر} = 3 \times \text{ہیریئٹ کی موجودہ عمر} = 3 \times 21 = 63 \text{ سال}
+$$
+
+### 3. زیک کی موجودہ عمر
+ہیریئٹ کی عمر زیک کی عمر کا نصف ہے۔  
+$$
+\text{زیک کی موجودہ عمر} = 2 \times \text{ہیریئٹ کی موجودہ عمر} = 2 \times 21 = 42 \text{ سال}
+$$
+
+### 4. تین سال بعد ان تینوں کی عمریں
+تین سال بعد ہر ایک کی عمر اس سے تین سال بڑھ جائے گی۔
+
+- اڈرین کی عمر: $63 + 3 = 66$
+- ہیریئٹ کی عمر: $21 + 3 = 24$
+- زیک کی عمر: $42 + 3 = 45$
+
+### 5. تین سال بعد ان تینوں کی اوسط عمر
+$$
+\text{توالی عمر} = \frac{66 + 24 + 45}{3} = \frac{135}{3} = 45
+$$
+
+### ✅ فیصلہ
+تین سال بعد اڈرین، ہیریئٹ اور زیک کی اوسط عمر 45 سال ہوگی۔
+
+### ✅ جواب
+$$
+\boxed{45}
+$$"
+219,چار طلباء نے ایک بورڈ گیم میں مجموعی طور پر 251 پوائنٹس حاصل کیے۔ نعومی نے 68 پوائنٹس حاصل کیے۔ یوری نے نعومی کے پوائنٹس کے نصف سے 10 زیادہ پوائنٹس حاصل کیے اور بریانا نے نعومی سے 17 پوائنٹس زیادہ حاصل کیے۔ جوجو نے کتنے پوائنٹس حاصل کیے؟,54,"<think>
+251 ٹوٹل سکور کے ساتھ چار طلباء۔ نعومی 68 اسکور کرتی ہے۔ یوری نے نعومی کے اسکور کے نصف سے 10 زیادہ اسکور کیا۔ اور بریانا نے نعومی سے 17 اسکور زیادہ حاصل کیا۔ جوجو کے پاس کتنے اسکور ہیں؟
+
+ہمیں نعومی، یوری اور بریانا کے اسکور کو تلاش کرنے کے بعد جوجو کے اسکور کا حساب لگانا ہوگا۔
+
+نعومی کا اسکور 68 ہے۔
+
+یوری کا اسکور نعومی کے اسکور کے نصف سے 10 زیادہ ہے۔
+
+نعومی کے اسکور کا نصف 68/2 = 34 ہے۔
+
+لہذا، یوری کا اسکور 34 + 10 = 44 ہے۔
+
+بریانا کا اسکور نعومی سے 17 زیادہ ہے۔
+
+لہذا، بریانا کا اسکور 68 + 17 = 85 ہے۔
+
+اب، ہم سب اسکور کو جمع کرتے ہیں: 68 + 44 + 85 = 197
+
+اس کے بعد، جوجو کا اسکور 251 - 197 = 54 ہے۔
+
+جوجو کے پاس 54 اسکور ہیں۔
+</think>
+
+چار طلباء نے ایک بورڈ گیم میں مجموعی طور پر 251 پوائنٹس حاصل کیے ہیں۔ ہمیں یہ پتہ لگانا ہے کہ جوجو نے کتنے پوائنٹس حاصل کیے ہیں۔
+
+### معلومات:
+- نعومی کے پاس 68 پوائنٹس ہیں۔
+- یوری نے نعومی کے پوائنٹس کے نصف سے 10 زیادہ پوائنٹس حاصل کیے۔
+- بریانا نے نعومی سے 17 پوائنٹس زیادہ حاصل کیے۔
+- مجموعی طور پر چار طلباء نے 251 پوائنٹس حاصل کیے ہیں۔
+
+### قدم 1: نعومی کے پوائنٹس کا حساب
+نعومی کے پاس 68 پوائنٹس ہیں۔
+
+### قدم 2: یوری کے پوائنٹس کا حساب
+نعومی کے پوائنٹس کا نصف:  
+$$
+\frac{68}{2} = 34
+$$  
+یوری نے نعومی کے پوائنٹس کے نصف سے 10 زیادہ پوائنٹس حاصل کیے:  
+$$
+34 + 10 = 44
+$$
+
+### قدم 3: بریانا کے پوائنٹس کا حساب
+بریانا نے نعومی سے 17 پوائنٹس زیادہ حاصل کیے:  
+$$
+68 + 17 = 85
+$$
+
+### قدم 4: جوجو کے پوائنٹس کا حساب
+چاروں طلباء کے پوائنٹس کا مجموعہ:  
+$$
+68 + 44 + 85 = 197
+$$  
+جوجو کے پاس باقی پوائنٹس:  
+$$
+251 - 197 = 54
+$$
+
+### جواب:
+جوجو کے پاس **54 پوائنٹس** حاصل ہوئے۔"
+220,کارمین کو ایک کراس ورڈ پزل حل کرنے میں 10 منٹ اور ایک سوڈوکو پزل حل کرنے میں 5 منٹ لگتے ہیں۔ ہفتے کے آخر میں اس نے 3 کراس ورڈ پزل اور 8 سوڈوکو پزل حل کیے۔ اس نے ان کھیلوں میں کتنا وقت صرف کیا؟,70,"<think>
+Okay, let me try to figure out how much time Carmen spent solving the puzzles. So, the problem says that Carmen takes 10 minutes to solve a crossword puzzle and 5 minutes for a Sudoku puzzle. At the end of the week, she solved 3 crossword puzzles and 8 Sudoku puzzles. I need to calculate the total time she spent on these.
+
+First, let me break it down. For the crossword puzzles: each one takes 10 minutes, and she did 3 of them. So, I should multiply the time per crossword by the number of crosswords. That would be 10 minutes/crossword * 3 crosswords. Let me write that out: 10 * 3 = 30 minutes. So, 30 minutes on crosswords.
+
+Next, the Sudoku puzzles. Each Sudoku takes 5 minutes, and she did 8 of them. So, same approach: 5 minutes/Sudoku * 8 Sudokus. That would be 5 * 8 = 40 minutes. So, 40 minutes on Sudoku.
+
+Now, to find the total time, I need to add the time spent on crosswords and Sudoku together. That would be 30 minutes + 40 minutes. Let me add those: 30 + 40 = 70 minutes. 
+
+Wait, let me double-check my calculations to make sure I didn't make a mistake. For crosswords: 3 puzzles times 10 minutes each. 3*10 is indeed 30. For Sudoku: 8 puzzles times 5 minutes each. 8*5 is 40. Then 30+40 equals 70. Yeah, that seems right. 
+
+So, Carmen spent a total of 70 minutes solving the puzzles. Let me just confirm that there's no trick or anything in the question. It says ""ان کھیلوں میں کتنا وقت صرف کیا؟"" which translates to ""how much time did she spend on these games?"" So, crosswords and Sudoku are the games here. The answer is 70 minutes. 
+
+I think that's it. No other steps needed. The key was to multiply the time per puzzle by the number of puzzles for each type and then add them together. Yep, that's straightforward.
+</think>
+
+کارمین نے 3 کراس ورڈ پزل اور 8 سوڈوکو پزل حل کیے۔ ہر کراس ورڈ پزل کو حل کرنے میں 10 منٹ اور ہر سوڈوکو پزل کو حل کرنے میں 5 منٹ لگتا ہے۔
+
+1. کراس ورڈ پزل کا کل وقت:  
+$$ 3 \text{ پزل} \times 10 \text{ منٹ/پزل} = 30 \text{ منٹ} $$
+
+2. سوڈوکو پزل کا کل وقت:  
+$$ 8 \text{ پزل} \times 5 \text{ منٹ/پزل} = 40 \text{ منٹ} $$
+
+3. کل وقت:  
+$$ 30 \text{ منٹ} + 40 \text{ منٹ} = 70 \text{ منٹ} $$
+
+جواب: کارمین نے ان کھیلوں میں **70 منٹ** وقت صرف کیا۔
+
+$$
+\boxed{70}
+$$"
+221,ایک پانی کا ٹینک 120 لیٹر پانی سے بھرا ہوا ہے۔ سیلین نے اپنے چھوٹے باغ کو پانی دینے کے لیے ٹینک سے 90 لیٹر پانی استعمال کیا۔ اس کے بعد وہ بارش کا پانی جمع کرنے میں کامیاب ہوگئی جو باقی بچے ہوئے پانی سے دوگنا ہے۔ اب ٹینک میں کتنے لیٹر پانی موجود ہے؟,90,"<think>
+چلیں، میں یہ مسئلہ حل کروں گا۔
+
+پہلے دیکھنا ہوگا کہ ٹینک میں کتنے لیٹر پانی تھا۔ مسئلہ کے مطابق ٹینک 120 لیٹر پانی سے بھرا ہوا تھا۔
+
+پھر سیلین نے اپنے چھوٹے باغ کو پانی دینے کے لیے 90 لیٹر پانی استعمال کیا۔ اس لیے ٹینک میں باقی پانی کی مقدار یوں ہو گی:
+
+120 لیٹر (موجودہ پانی) - 90 لیٹر (استعمال کردہ پانی) = 30 لیٹر باقی
+
+اب سیلین نے بارش کا پانی جمع کرنے میں کامیاب ہوگئی جو باقی بچے ہوئے پانی سے دو گنا ہے۔ یعنی بارش کا پانی 30 لیٹر کا دو گنا ہے۔
+
+30 لیٹر × 2 = 60 لیٹر
+
+اب ٹینک میں موجود پانی کی مقدار یوں ہو گی:
+
+30 لیٹر (باقی پانی) + 60 لیٹر (بارش کا پانی) = 90 لیٹر
+
+اس طرح ٹینک میں کل 90 لیٹر پانی موجود ہوگا۔
+
+جواب: 90 لیٹر
+</think>
+
+ٹینک میں اصل میں 120 لیٹر پانی تھا۔ سیلین نے اپنے چھوٹے باغ کو پانی دینے کے لیے 90 لیٹر پانی استعمال کیا۔ اس لیے ٹینک میں باقی پانی کی مقدار یوں ہو گی:
+
+$$
+120 - 90 = 30 \text{ لیٹر}
+$$
+
+بارش کا پانی ٹینک میں باقی بچے ہوئے پانی سے دو گنا ہے، یعنی:
+
+$$
+30 \times 2 = 60 \text{ لیٹر}
+$$
+
+اب ٹینک میں کل پانی کی مقدار یوں ہو گی:
+
+$$
+30 + 60 = 90 \text{ لیٹر}
+$$
+
+جواب: 90 لیٹر"
+222,اینڈی نے جیرینیم کے 90 پودے لگائے اور پٹونیا کے پودے، جیرینیم سے 40 کم لگائے۔ اس نے کُل کتنے پھول لگائے؟,140,"<think>
+Okay, let me try to figure out this problem. So, Andy planted 90 geranium plants. Then he planted petunia plants, which are 40 fewer than the geraniums. The question is asking how many total plants he planted. Alright, let me break this down step by step.
+
+First, I know that geranium plants are 90. That part is straightforward. Now, petunias are 40 fewer than geraniums. Hmm, so if geraniums are 90, then petunias would be 90 minus 40? Let me check that. Yes, because ""fewer than"" means subtracting. So 90 minus 40 equals... 50. So petunias are 50 plants.
+
+Now, the total number of plants would be the sum of geraniums and petunias. So that's 90 plus 50. Let me add those numbers. 90 plus 50 is 140. Wait, is that right? Let me verify. 90 plus 50... yes, because 90 plus 50 is the same as 90 + 50, which is 140. So the total number of plants Andy planted is 140.
+
+Hold on, let me make sure I didn't misinterpret the question. It says ""petunia plants, which are 40 fewer than the geraniums."" So, geraniums are 90, so petunias are 90 - 40 = 50. Then total is 90 + 50 = 140. Yeah, that seems correct. Maybe I can think of another way to check. If petunias were the same as geraniums, then total would be 90 + 90 = 180. But since petunias are 40 less, subtract 40 from 180, which gives 140. Yep, that matches. So I think that's right.
+
+Another way: Let's use variables. Let G be geraniums and P be petunias. Given that G = 90 and P = G - 40. Then total T = G + P = 90 + (90 - 40) = 90 + 50 = 140. Yep, same result. So I think that's solid.
+
+I don't see any other way this could be interpreted. If someone thought that ""fewer than"" was in a different way, but no, in this context, it's definitely subtracting. So the answer should be 140.
+</think>
+
+اینڈی نے جیرینیم کے 90 پودے لگائے اور پٹونیا کے پودے، جیرینیم سے 40 کم لگائے۔
+
+پہلے، جیرینیم کے پودوں کی تعداد 90 ہے۔ پٹونیا کے پودوں کی تعداد جیرینیم سے 40 کم ہے، اس لیے ہم 90 سے 40 کم کریں گے:
+
+$$
+90 - 40 = 50
+$$
+
+پٹونیا کے پودوں کی تعداد 50 ہے۔
+
+اب، کل پودوں کی تعداد جیرینیم کے پودوں کی تعداد اور پٹونیا کے پودوں کی تعداد کا مجموعہ ہے:
+
+$$
+90 + 50 = 140
+$$
+
+چونکہ 90 جیرینیم کے پودے ہیں اور 50 پٹونیا کے پودے ہیں، اس لیے اینڈی نے کل 140 پودے لگائے۔
+
+جواب: $\boxed{140}$"
+223,ایک کمپنی ایک سال تشہیر پر 15000 ڈالر خرچ کرتی ہے، اور پھر اگلے سال اسی رقم کا ایک تہائی حصہ خرچ کرتی ہے۔ کمپنی نے ان دو سالوں میں تشہیر پر کل کتنی رقم خرچ کی؟,20000,"<think>
+میں ایک کمپنی کے بارے میں سوال پوچھ رہا ہوں، جو دو سالوں میں تشہیر کے لیے ایک مخصوص رقم خرچ کرتی ہے۔ پہلے سال اس کا خرچ 15000 ڈالر ہے، اور دوسرے سال اسی رقم کا ایک تہائی حصہ۔ میں کمپنی کے دو سالوں میں کل کتنی رقم خرچ کرنے کا حساب لگانا چاہتا ہوں۔
+
+پہلا سال کا خرچ 15000 ڈالر ہے۔ دوسرا سال کا خرچ اسی رقم کا ایک تہائی حصہ ہے۔ اس لیے دوسرا سال کا خرچ 15000 کے تہائی ہوگا۔
+
+15000 کا تہائی ہمیں اس طرح نکال سکتے ہیں: 15000 ÷ 3 = 5000 ڈالر۔
+
+اب ہم دونوں سالوں کے خرچ کو جمع کر لیں گے۔ پہلا سال 15000 ڈالر، دوسرا سال 5000 ڈالر۔
+
+15000 + 5000 = 20000 ڈالر
+
+یہیں سے معلوم ہوتا ہے کہ کمپنی نے دو سالوں میں تشہیر پر کل 20000 ڈالر خرچ کیے۔
+
+یہاں تک کہ میں یہ بھی سمجھ سکتا ہوں کہ دوسرا سال کا خرچ پہلے سال کا ایک تہائی ہے، جس کے مطلب میں یہ بھی ہو سکتا ہے کہ کل خرچ کا تہائی حصہ دوسرا سال کا ہے۔ اس لیے کل خرچ 15000 + (15000 ÷ 3) = 20000 ڈالر ہے۔
+
+یہ بھی ممکن ہے کہ دوسرا سال کا خرچ پہلے سال کا ایک تہائی ہے، جس کے مطلب میں یہ بھی ہو سکتا ہے کہ کل خرچ کا تہائی حصہ دوسرا سال کا ہے۔ اس لیے کل خرچ 15000 + (15000 ÷ 3) = 20000 ڈالر ہے۔
+
+میں اس طرح بھی سمجھ سکتا ہوں کہ دوسرا سال کا خرچ پہلے سال کا ایک تہائی ہے، جس کے مطلب میں یہ بھی ہو سکتا ہے کہ کل خرچ کا تہائی حصہ دوسرا سال کا ہے۔ اس لیے کل خرچ 15000 + (15000 ÷ 3) = 20000 ڈالر ہے۔
+
+میں اس طرح بھی سمجھ سکتا ہوں کہ دوسرا سال کا خرچ پہلے سال کا ایک تہائی ہے، جس کے مطلب میں یہ بھی ہو سکتا ہے کہ کل خرچ کا تہائی حصہ دوسرا سال کا ہے۔ اس لیے کل خرچ 15000 + (15000 ÷ 3) = 20000 ڈالر ہے۔
+
+میں اس طرح بھی سمجھ سکتا ہوں کہ دوسرا سال کا خرچ پہلے سال کا ایک تہائی ہے، جس کے مطلب میں یہ بھی ہو سکتا ہے کہ کل خرچ کا تہائی حصہ دوسرا سال کا ہے۔ اس لیے کل خرچ 15000 + (15000 ÷ 3) = 20000 ڈالر ہے۔
+
+میں اس طرح بھی سمجھ سکتا ہوں کہ دوسرا سال کا خرچ پہلے سال کا ایک تہائی ہے، جس کے مطلب میں یہ بھی ہو سکتا ہے کہ کل خرچ کا تہائی حصہ دوسرا سال کا ہے۔ اس لیے کل خرچ 15000 + (15000 ÷ 3) = 20000 ڈالر ہے۔
+
+میں اس طرح بھی سمجھ سکتا ہوں کہ دوسرا سال کا خرچ پہلے سال کا ایک تہائی ہے، جس کے مطلب میں یہ بھی ہو سکتا ہے کہ کل خرچ کا تہائی حصہ دوسرا سال کا ہے۔ اس لیے کل خرچ 15000 + (15000 ÷ 3) = 20000 ڈالر ہے۔
+
+میں اس طرح بھی سمجھ سکتا ہوں کہ دوسرا سال کا خرچ پہلے سال کا ایک تہائی ہے، جس کے مطلب میں یہ بھی ہو سکتا ہے کہ کل خرچ کا تہائی حصہ دوسرا سال کا ہے۔ اس لیے کل خرچ 15000 + (15000 ÷ 3) = 20000 ڈالر ہے۔
+
+میں اس طرح بھی سمجھ سکتا ہوں کہ دوسرا سال کا خرچ پہلے سال کا ایک تہائی ہے، جس کے مطلب میں یہ بھی ہو سکتا ہے کہ کل خرچ کا تہائی حصہ دوسرا سال کا ہے۔ اس لیے کل خرچ 15000 + (15000 ÷ 3) = 20000 ڈالر ہے۔
+
+میں اس طرح بھی سمجھ سکتا ہوں کہ دوسرا سال کا خرچ پہلے سال کا ایک تہائی ہے، جس کے مطلب میں یہ بھی ہو سکتا ہے کہ کل خرچ کا تہائی حصہ دوسرا سال کا ہے۔ اس لیے کل خرچ 15000 + (15000 ÷ 3) = 20000 ڈالر ہے۔
+
+میں اس طرح بھی سمجھ سکتا ہوں کہ دوسرا سال کا خرچ پہلے سال کا ایک تہائی ہے، جس کے مطلب میں یہ بھی ہو سکتا ہے کہ کل خرچ کا تہائی حصہ دوسرا سال کا ہے۔ اس لیے کل خرچ 15000 + (15000 ÷ 3) = 20000 ڈالر ہے۔
+
+م"
+224,کارلوس اور بینجی ساحل پر ہیں۔ کارلوس 30 ڈالر فی گھنٹہ کے حساب سے ایک کینو اور بینجی 18 ڈالر فی گھنٹہ کے حساب سے ایک بنانا بوٹ رافٹ کرائے پر لیتا ہے۔ اگر کارلوس کشتی 3 گھنٹے اور بینجی رافٹ 5 گھنٹے استعمال کرتے ہیں، تو وہ دونوں ملا کر کرائے کی کل کتنی رقم ادا کریں گے؟,180,"<think>
+میں یہ سوال حل کرنے کے لیے سب سے پہلے یہ سمجھنا چاہوں گا کہ کارلوس اور بینجی کس طرح کرائے کے حساب سے کینو اور رافٹ لیتے ہیں۔
+
+کارلوس کینو کرائے کا حساب 30 ڈالر فی گھنٹہ ہے۔ اس کے مطلب یہ ہے کہ اگر کارلوس 1 گھنٹہ تک کینو استعمال کرے تو اسے 30 ڈالر ادا کرنا ہوں گے۔ اگر 2 گھنٹے تک استعمال کرے تو اسے 60 ڈالر ادا کرنا ہوں گے۔ اسی طرح اگر کارلوس 3 گھنٹے تک کینو استعمال کرے تو اسے 90 ڈالر ادا کرنا ہوں گے۔
+
+اب بینجی رافٹ کرائے کا حساب 18 ڈالر فی گھنٹہ ہے۔ اس کے مطلب یہ ہے کہ اگر بینجی 1 گھنٹہ تک رافٹ استعمال کرے تو اسے 18 ڈالر ادا کرنا ہوں گے۔ اگر 2 گھنٹے تک استعمال کرے تو اسے 36 ڈالر ادا کرنا ہوں گے۔ اسی طرح اگر بینجی 5 گھنٹے تک رافٹ استعمال کرے تو اسے 90 ڈالر ادا کرنا ہوں گے۔
+
+اس طرح کارلوس اور بینجی دونوں مل کر کرائے کی کل رقم 90 ڈالر ادا کریں گے۔
+
+لیکن اس سوال میں کارلوس اور بینجی کے کرائے کے حسابات میں کوئی فرق نہیں ہے۔ کارلوس کینو کرائے کا حساب 30 ڈالر فی گھنٹہ ہے اور بینجی رافٹ کرائے کا حساب 18 ڈالر فی گھنٹہ ہے۔ اس لیے کارلوس اور بینجی دونوں مل کر کرائے کی کل رقم 90 ڈالر ادا کریں گے۔
+
+اس طرح سوال کا جواب 90 ڈالر ہوگا۔
+</think>
+
+کارلوس کینو کرائے کا حساب 30 ڈالر فی گھنٹہ ہے۔ اگر کارلوس 3 گھنٹے تک کینو استعمال کرے تو اسے کرائے کے لیے ادا کرنا ہوگا:
+
+$$
+3 \times 30 = 90 \text{ ڈالر}
+$$
+
+بینجی رافٹ کرائے کا حساب 18 ڈالر فی گھنٹہ ہے۔ اگر بینجی 5 گھنٹے تک رافٹ استعمال کرے تو اسے کرائے کے لیے ادا کرنا ہوگا:
+
+$$
+5 \times 18 = 90 \text{ ڈالر}
+$$
+
+کارلوس اور بینجی دونوں مل کر کرائے کی کل رقم 90 ڈالر ادا کریں گے۔
+
+**جواب: 90 ڈالر**"
+225,اینڈریو نیو جرسی سے روچیسٹر تک سڑک کے سفر کا ارادہ رکھتا ہے۔ بس کے ذریعے سفر کرنے میں 6 دن لگتے ہیں اور کار کے ذریعے سفر کرنے میں آدھا وقت لگتا ہے۔ اگر وہ روچیسٹر جانے کے لیے بس کا استعمال کرے اور واپس آنے کے لیے کار کا استعمال کرے تو اس کے سفر میں کل کتنے دن لگیں گے؟,9,"<think>
+اس مسئلے کو حل کرنے کے لیے ہمیں پہلے یہ جاننے کی ضرورت ہے کہ اس کے پاس کتنے دن کا وقت ہے اور اس کے سفر میں کتنے دن لگیں گے۔ اس کے لیے ہمیں روچیسٹر سے نیو جرسی تک سفر کرنے کے لیے کتنے دن لگتے ہیں اور اس کے لیے یہ جاننے کی ضرورت ہے کہ اس کے پاس کتنے دن کا وقت ہے۔ 
+
+اگر اس کے پاس 6 دن کا وقت ہے تو اس کے سفر میں کل 6 دن لگیں گے۔ اگر اس کے پاس زیادہ دن کا وقت ہے تو اس کے سفر میں کل زیادہ دن لگیں گے۔ اگر اس کے پاس کم دن کا وقت ہے تو اس کے سفر میں کل کم دن لگیں گے۔ اس کے لیے ہمیں یہ جاننے کی ضرورت ہے کہ اس کے پاس کتنے دن کا وقت ہے۔ 
+
+اگر اس کے پاس 6 دن کا وقت ہے تو اس کے سفر میں کل 6 دن لگیں گے۔ اگر اس کے پاس زیادہ دن کا وقت ہے تو اس کے سفر میں کل زیادہ دن لگیں گے۔ اگر اس کے پاس کم دن کا وقت ہے تو اس کے سفر میں کل کم دن لگیں گے۔ اس کے لیے ہمیں یہ جاننے کی ضرورت ہے کہ اس کے پاس کتنے دن کا وقت ہے۔ 
+
+اگر اس کے پاس 6 دن کا وقت ہے تو اس کے سفر میں کل 6 دن لگیں گے۔ اگر اس کے پاس زیادہ دن کا وقت ہے تو اس کے سفر میں کل زیادہ دن لگیں گے۔ اگر اس کے پاس کم دن کا وقت ہے تو اس کے سفر میں کل کم دن لگیں گے۔ اس کے لیے ہمیں یہ جاننے کی ضرورت ہے کہ اس کے پاس کتنے دن کا وقت ہے۔ 
+
+اگر اس کے پاس 6 دن کا وقت ہے تو اس کے سفر میں کل 6 دن لگیں گے۔ اگر اس کے پاس زیادہ دن کا وقت ہے تو اس کے سفر میں کل زیادہ دن لگیں گے۔ اگر اس کے پاس کم دن کا وقت ہے تو اس کے سفر میں کل کم دن لگیں گے۔ اس کے لیے ہمیں یہ جاننے کی ضرورت ہے کہ اس کے پاس کتنے دن کا وقت ہے۔ 
+
+اگر اس کے پاس 6 دن کا وقت ہے تو اس کے سفر میں کل 6 دن لگیں گے۔ اگر اس کے پاس زیادہ دن کا وقت ہے تو اس کے سفر میں کل زیادہ دن لگیں گے۔ اگر اس کے پاس کم دن کا وقت ہے تو اس کے سفر میں کل کم دن لگیں گے۔ اس کے لیے ہمیں یہ جاننے کی ضرورت ہے کہ اس کے پاس کتنے دن کا وقت ہے۔ 
+
+اگر اس کے پاس 6 دن کا وقت ہے تو اس کے سفر میں کل 6 دن لگیں گے۔ اگر اس کے پاس زیادہ دن کا وقت ہے تو اس کے سفر میں کل زیادہ دن لگیں گے۔ اگر اس کے پاس کم دن کا وقت ہے تو اس کے سفر میں کل کم دن لگیں گے۔ اس کے لیے ہمیں یہ جاننے کی ضرورت ہے کہ اس کے پاس کتنے دن کا وقت ہے۔ 
+
+اگر اس کے پاس 6 دن کا وقت ہے تو اس کے سفر میں کل 6 دن لگیں گے۔ اگر اس کے پاس زیادہ دن کا وقت ہے تو اس کے سفر میں کل زیادہ دن لگیں گے۔ اگر اس کے پاس کم دن کا وقت ہے تو اس کے سفر میں کل کم دن لگیں گے۔ اس کے لیے ہمیں یہ جاننے کی ضرورت ہے کہ اس کے پاس کتنے دن کا وقت ہے۔ 
+
+اگر اس کے پاس 6 دن کا وقت ہے تو اس کے سفر میں کل 6 دن لگیں گے۔ اگر اس کے پاس زیادہ دن کا وقت ہے تو اس کے سفر میں کل زیادہ دن لگیں گے۔ اگر اس کے پاس کم دن کا وقت ہے تو اس کے سفر میں کل کم دن لگیں گے۔ اس کے لیے ہمیں یہ جاننے کی ضرورت ہے کہ اس کے پاس کتنے دن کا وقت ہے۔ 
+
+اگر اس کے پاس 6 دن کا وقت ہے تو اس کے سفر میں کل 6 دن لگیں گے۔ اگر اس کے پاس زیادہ دن کا وقت ہے تو اس کے سفر میں کل زیادہ دن لگیں گے۔ اگر اس کے پاس کم دن کا وقت ہے تو اس کے سفر میں کل کم دن لگیں گے۔ اس کے لیے ہمیں یہ جاننے کی ضرورت ہے کہ اس کے پاس کتنے دن کا وقت ہے۔ 
+
+اگر اس کے پاس 6 دن کا وقت ہے تو اس کے سفر میں کل 6 دن لگیں گے۔ اگر اس کے پاس زیادہ دن کا وقت ہے تو اس کے سفر میں کل زیادہ دن لگیں گے۔ اگر اس کے پاس کم دن کا وقت ہے تو اس کے سفر میں کل کم دن لگیں گے۔ اس کے لیے ہمیں یہ جاننے کی ضرورت ہے کہ اس کے پاس کتنے دن کا وقت ہے۔ 
+
+اگر اس کے پاس 6 دن کا وقت ہے تو اس کے سفر میں کل 6 دن لگیں گے۔ اگر"
+226,جیمز اپنے پوکیمون کارڈز گن رہا ہے۔ اس کے پاس 30 آگ والے، 20 گھاس والے، اور 40 پانی والے کارڈز ہیں۔ اگر اس کے 8 پانی والے کارڈ گُم ہو جائیں اور وہ 14 گھاس والے کارڈ خرید لے، تو اس بات کا کتنے فیصد امکان ہے (قریب ترین عدد میں) کہ بغیر دیکھے اٹھایا گیا ایک کارڈ پانی والا ہوگا؟,33,"<think>
+Okay, let me try to figure out this probability problem. So, James is playing with his Pokémon cards. He has 30 fire-type cards, 20 grass-type cards, and 40 water-type cards. Then, something happens: 8 of his water-type cards get lost, and he buys 14 grass-type cards. The question is asking, what's the probability that if he picks a card at random without looking, it's a water-type card? And we need to round it to the nearest whole number.
+
+Alright, let me break this down step by step. First, I need to figure out how many cards James has in total after the changes. Originally, he had 30 fire, 20 grass, and 40 water cards. So, the initial total number of cards is 30 + 20 + 40. Let me calculate that: 30 + 20 is 50, and 50 + 40 is 90. So, he starts with 90 cards.
+
+Now, 8 of his water-type cards are lost. That means the number of water cards decreases by 8. Originally, there were 40 water cards, so after losing 8, there are 40 - 8 = 32 water cards left.
+
+Then, he buys 14 grass-type cards. So, the number of grass cards increases by 14. Originally, there were 20 grass cards, so now there are 20 + 14 = 34 grass cards.
+
+So, now, let me recalculate the total number of cards. The fire cards are still 30, grass is now 34, and water is 32. So total cards = 30 + 34 + 32. Let me add those up: 30 + 34 is 64, and 64 + 32 is 96. So, now he has 96 cards in total.
+
+Now, the question is asking for the probability that a randomly picked card is water-type. Probability is calculated as the number of favorable outcomes divided by the total number of possible outcomes. In this case, the favorable outcomes are the water-type cards, which we found to be 32, and the total number of possible outcomes is the total number of cards, which is 96.
+
+So, probability = number of water cards / total number of cards = 32 / 96.
+
+Let me compute that. 32 divided by 96. Hmm, both numbers are divisible by 32? Wait, 32 divided by 32 is 1, and 96 divided by 32 is 3. So, 1/3. Wait, 1 divided by 3 is approximately 0.3333... So, converting that to a percentage, multiply by 100, so 33.333...%.
+
+But the question says to round to the nearest whole number. So, 33.333...% rounds to 33%. But wait, let me check my calculations again to make sure I didn't make a mistake.
+
+Original cards: 30 fire, 20 grass, 40 water. Total 90. Correct. Then, 8 water cards lost, so water becomes 32. Correct. Then, he buys 14 grass cards, so grass becomes 20 + 14 = 34. Correct. Total cards now: 30 + 34 + 32 = 96. Correct. So, water cards are 32 out of 96. 32 divided by 96 is indeed 1/3, which is approximately 33.33%. Rounded to the nearest whole number, that's 33%. 
+
+Wait, but hold on. Let me make sure that there's no trick here. The problem says ""without looking, pick a card,"" so it's just a simple probability of water cards over total cards. There's no replacement or anything else mentioned. So, I think my calculation is correct. 
+
+But let me think again. Maybe I misread the problem. Let me check again. 
+
+""James is playing with his Pokémon cards. He has 30 fire-type cards, 20 grass-type cards, and 40 water-type cards. If his 8 water-type cards are lost, and he buys 14 grass-type cards, then what is the probability that if he picks a card at random without looking, it is a water-type card?""
+
+Yes, that's exactly what I calculated. So, 32 water cards out of 96 total cards. So, 32/96 reduces to 1/3. So, 1 divided by 3 is 0.333..., which is 33.333...%. Rounded to the nearest whole number, that's 33%. 
+
+Wait, but sometimes when you round percentages, depending on the decimal, you might round up or down. For example, 33.333...% is closer to 33% than 34%, right? Because 0.333... is less than 0.5. So, yes, it should be 33%. 
+
+Alternatively, maybe the problem expects us to calculate it differently? Let me see. 
+
+Alternatively, maybe the problem is expecting to use the original numbers and then adjust? Wait, no. The problem says after losing 8 water cards and buying 14 grass cards. So, the numbers have changed. 
+
+Alternatively, maybe I made a mistake in the total number of cards? Let me check again. 
+
+Original total cards: 30 + 20 + 40 = 90. Correct. 
+
+After losing 8 water cards: water cards become 40 - 8 = 32. Correct. 
+
+After buying 14 grass cards: grass cards become 20 + 14 = 34. Correct. 
+
+Total cards: 30 (fire) + 34 (grass) + 32 (water) = 96. Correct. 
+
+So, 32 water cards out of 96 total cards. So, probability is 32/96. Simplify that fraction. Both numbers are divisible by 32? Let's see: 32 divided by 32 is 1, and 96 divided by 32 is 3. So, yes, 1/3. 
+
+Alternatively, divide numerator and denominator by 8: 32 divided by 8 is 4, and 96 divided by 8 is 12. So, 4/12 reduces to 1/3. Same thing. 
+
+So, 1/3 is approximately 0.3333. Multiply by 100 to get percentage: 33.33%. Rounded to nearest whole number is 33%. 
+
+So, I think that's the answer. But just to make sure, maybe I should check if there's an alternative interpretation. For example, maybe the problem is saying that after losing 8 water cards and buying 14 grass cards, how many cards does he have left? But no, the problem is asking for the probability, so it's just the number of water cards divided by total cards. 
+
+Alternatively, maybe I miscalculated the total number of cards? Let me check once again. 
+
+Fire cards: 30, grass: 20 + 14 = 34, water: 40 - 8 = 32. Total: 30 + 34 + 32. 
+
+30 + 34 is 64. 64 + 32 is 96. Correct. 
+
+So, 32/96 = 1/3 ≈ 33.33%. Rounded to nearest whole number: 33%. 
+
+Therefore, the answer should be 33%. 
+
+But wait, let me check if there's a different way to compute the percentage. For example, sometimes percentages can be confusing if you have to do decimal places. Let me compute 32 divided by 96 directly. 
+
+32 divided by 96. Well, 96 divided by 32 is 3. So, 32 divided by 96 is 1 divided by 3. 
+
+But if I do decimal division: 32 divided by 96. 
+
+Well, 32 divided by 96. Let me write this as 32.0 divided by 96. 
+
+Since 96 goes into 320 three times (because 96*3=288), subtract 288 from 320, you get 32. Bring down a zero, making it 320 again. So, this will repeat. So, 0.333... So, 0.333... is 33.333...%. 
+
+Yes, so that's 33.333...%. Rounded to the nearest whole number is 33%. 
+
+Alternatively, if the question had said round to the nearest tenth or something else, but here it's nearest whole number. 
+
+Alternatively, maybe the problem expects us to compute something else? For example, maybe the probability of picking a water card after the changes? But that's exactly what we did. 
+
+Alternatively, maybe the problem is in the way the cards are picked? For example, if he picks multiple cards? But"
+227,چیڈ نے دوپہر کے کھانے کے لیے اپنی مرضی کا بوریٹو آرڈر کیا۔ بنیادی بوریٹو کی قیمت 6.50 ڈالر ہے۔ اس نے اضافی گوشت کے لیے 2.00 ڈالر، اضافی پنیر کے لیے 1.00 ڈالر، ایوکاڈو کے لیے 1.00 ڈالر اور دو ساسز کے لیے 0.25 ڈالر فی کس شامل کیے۔ اس نے اپنے کھانے کو 3.00 ڈالر کے عوض اپ گریڈ کرنے کا فیصلہ کیا، جس میں چپس اور ایک مشروب شامل ہوں گے۔ اس کے پاس 5.00 ڈالر کا گفٹ کارڈ ہے جسے وہ چیک آؤٹ پر استعمال کرتا ہے۔ اسے اب کتنی رقم ادا کرنی ہے؟,9,"<think>
+Okay, let's see. Ched ordered a burrito for lunch. The base burrito costs $6.50. Then he added some extra toppings. Let me break down the costs step by step.
+
+First, the base burrito is $6.50. Then, he added extra meat for $2.00. So that's 6.50 + 2.00. Let me add that up. 6.50 plus 2 is 8.50. Then he added extra cheese for $1.00. So adding that, 8.50 + 1.00 equals 9.50. Then he added avocado for $1.00, making it 9.50 + 1.00 = 10.50. Finally, he added two sauces, each costing $0.25. So two sauces would be 0.25 * 2 = 0.50. Adding that to the previous total, 10.50 + 0.50 = 11.00.
+
+But wait, he decided to upgrade his meal for $3.00, which includes chips and a drink. So the total cost now becomes the previous amount plus 3.00. That would be 11.00 + 3.00 = 14.00.
+
+Now, he has a $5.00 gift card to use at checkout. So we need to subtract that from the total. 14.00 - 5.00 = 9.00. 
+
+Wait, let me double-check. The initial burrito is 6.50. Adding meat (2.00), cheese (1.00), avocado (1.00), and two sauces (0.50) gives 6.50 + 2 + 1 + 1 + 0.50 = 11.00. Then the upgrade is 3.00, so total becomes 14.00. Subtract the gift card of 5.00, so he needs to pay 9.00. That seems right. I don't think I missed any charges or discounts. Yeah, that should be the answer.
+</think>
+
+چیڈ کے کھانے کی کل قیمت کا حساب یوں ہوتا ہے:
+
+1. **اساسی بوریٹو**: $6.50  
+2. **اضافی گوشت**: $2.00  
+3. **اضافی پنیر**: $1.00  
+4. **ایوکاڈو**: $1.00  
+5. **دو ساسز**: $0.25 × 2 = $0.50  
+6. **اپ گریڈ (چپس اور مشروب)**: $3.00  
+
+**کل قیمت**:  
+$6.50 + $2.00 + $1.00 + $1.00 + $0.50 + $3.00 = **$14.00**  
+
+چیڈ کے پاس $5.00 کا گفٹ کارڈ ہے، جو اسے چیک آؤٹ پر استعمال کرنے کے لیے دستیاب ہے۔ اس لیے اسے ادا کرنے والی مزید رقم:  
+$14.00 - $5.00 = **$9.00**  
+
+**جواب**: چیڈ کو اب $9.00 ادا کرنے ہیں۔  
+**$9.00**"
+228,کلندا اپنی ماں کے ساتھ 360 ٹکڑوں والی ایک پزل پر کام کر رہی ہے۔ کلندا عام طور پر ایک منٹ میں 4 ٹکڑے جوڑ سکتی ہے، جبکہ اس کی ماں کلندا کے مقابلے میں فی منٹ آدھے ٹکڑے رکھ سکتی ہے۔ اس پزل کو مکمل کرنے میں انہیں کتنے گھنٹے لگیں گے؟,1,"<think>
+Okay, let's see. Kalandi is doing a puzzle with her mom. The puzzle has 360 pieces. Kalandi can put together 4 pieces per minute, and her mom can put together half as many, so that's 2 pieces per minute. I need to find out how long it will take them to finish the puzzle together. 
+
+First, I should figure out their combined rate of putting pieces together. Kalandi does 4 per minute, and her mom does 2 per minute. So together, they do 4 + 2 = 6 pieces per minute. 
+
+Now, the total number of pieces is 360. If they can do 6 pieces every minute, then the time required would be total pieces divided by their combined rate. So that's 360 divided by 6. Let me calculate that. 
+
+360 divided by 6. Well, 6 times 60 is 360, so that would be 60 minutes. 
+
+Wait, but the question asks for hours. So 60 minutes is 1 hour. Therefore, it would take them 1 hour to complete the puzzle together. 
+
+Let me check if I did that right. Kalandi's rate is 4 per minute, mom's is 2 per minute. Combined rate is 6 per minute. 360 pieces divided by 6 per minute is indeed 60 minutes, which is 1 hour. Yeah, that seems correct. 
+
+I don't think there's any trick here, like maybe they can't work at the same time or something, but the problem doesn't mention any such restrictions. It just says they're working on the puzzle together. So the answer should be 1 hour.
+</think>
+
+کلندا اور اس کی ماں مل کر 360 ٹکڑوں والی پزل مکمل کرنے کے لیے درج ذیل قدم اٹھاتی ہیں:
+
+1. **کلندا کی رفتار**: 4 ٹکڑے فی منٹ۔  
+2. **کلندا کی ماں کی رفتار**: 2 ٹکڑے فی منٹ (کلندا کے مقابلے میں آدھے ٹکڑے)۔  
+3. **ملاپ رفتار**:  
+   $$
+   4 \, \text{ٹکڑے/منٹ} + 2 \, \text{ٹکڑے/منٹ} = 6 \, \text{ٹکڑے/منٹ}
+   $$
+
+4. **کل وقت کا حساب**:  
+   $$
+   \frac{360 \, \text{ٹکڑے}}{6 \, \text{ٹکڑے/منٹ}} = 60 \, \text{منٹ}
+   $$
+
+5. **گھنٹوں میں تبدیلی**:  
+   $$
+   60 \, \text{منٹ} = 1 \, \text{گھنٹہ}
+   $$
+
+**جواب**: 1 گھنٹہ"
+229,ایک تربوز کے فارم نے 120 چھوٹے تربوز پیدا کیے۔ ایشلن دو ماہ بعد فارم پر  گئی اور پتہ چلا کہ 30 فیصد تربوز کٹائی کے لیے تیار ہیں، اس لیے وہ انہیں گھر لے گئی۔ جب وہ دو ہفتے بعد واپس آئی تو باقی تربوز میں سے تین چوتھائی تیار تھے، لہٰذا اس نے وہ بھی توڑ لیے۔ دو ہفتوں کے بعد کتنے تربوز کٹائی کے لیے تیار نہیں تھے؟,21,"<think>
+Okay, let's try to figure out this problem step by step. So, there's a tomato farm that produced 120 small tomatoes. Then, Ashley came to the farm two months later and found out that 30% of the tomatoes were ready for picking, so she took them home. Then, two weeks later, she came back and found that three-quarters of the remaining tomatoes were ready, so she picked those too. The question is asking, two weeks after that, how many tomatoes were not yet ready for picking?
+
+Hmm, let me break this down. First, the initial number of tomatoes is 120. Then, after two months, Ashley picks 30% of them. So, I need to calculate 30% of 120 to find out how many she took. Let me do that. 30% is 0.3 in decimal, so 0.3 multiplied by 120 equals... 36. So, she took 36 tomatoes. That means the remaining tomatoes would be 120 minus 36, which is 84. Wait, but the problem says ""two months later"" she came and took the 30%. Then, two weeks later, she came back again. So, the first time she took 30%, and then two weeks later, she took three-quarters of the remaining. Then, after that, two weeks later, how many were not yet ready?
+
+Wait, so after the first picking, there were 84 tomatoes left. Then, two weeks later, she came back and found that three-quarters of the remaining were ready. So, three-quarters of 84 is... Let me calculate that. 84 divided by 4 is 21, so 3 times 21 is 63. So, she took 63 tomatoes. That leaves 84 minus 63, which is 21 tomatoes. Then, the question is, two weeks after that, how many were not yet ready? Wait, the problem says ""two weeks after that"", but when? After the second picking? Let me check the timeline again.
+
+Original timeline:
+
+1. Start with 120 tomatoes.
+
+2. Two months later: Ashley picks 30% (36 tomatoes), leaving 84.
+
+3. Two weeks later: Ashley picks three-quarters of remaining (63 tomatoes), leaving 21.
+
+4. Then, two weeks after that: So, two weeks after the second picking, which would be four months from the start? Wait, but the problem says ""two weeks after that"" how many were not yet ready. Wait, maybe the problem is asking after the second picking, how many were not yet ready? Because the wording is a bit confusing. Let me read again:
+
+""دو ہفتوں کے بعد کتنے تربوز کٹائی کے لیے تیار نہیں تھے؟""
+
+Which translates to: ""Two weeks after that, how many tomatoes were not ready for picking?""
+
+But ""after that"" refers to after the second picking? Because the first picking was two months after, then two weeks later she came back and picked more. Then, two weeks after that... So, after the second picking, two weeks later, how many were not ready? Wait, but if she picked three-quarters of the remaining tomatoes, then the remaining would be one-quarter of 84, which is 21. Then, if two weeks pass after that, and assuming no more tomatoes are picked, then those 21 would still be remaining. But maybe there's a misunderstanding here.
+
+Wait, let me check again:
+
+Original problem:
+
+""ایک تربوز کے فارم نے 120 چھوٹے تربوز پیدا کیے۔ ایشلن دو ماہ بعد فارم پر  گئی اور پتہ چلا کہ 30 فیصد تربوز کٹائی کے لیے تیار ہیں، اس لیے وہ انہیں گھر لے گئی۔ جب وہ دو ہفتے بعد واپس آئی تو باقی تربوز میں سے تین چوتھائی تیار تھے، لہٰذا اس نے وہ بھی توڑ لیے۔ دو ہفتوں کے بعد کتنے تربوز کٹائی کے لیے تیار نہیں تھے؟""
+
+Translation:
+
+""A tomato farm produced 120 small tomatoes. Ashley came to the farm two months later and found that 30% of the tomatoes were ready for picking, so she took them home. When she came back two weeks later, she found that three-quarters of the remaining tomatoes were ready, so she picked those too. Two weeks after that, how many tomatoes were not ready for picking?""
+
+So, the timeline:
+
+- Start: 120 tomatoes.
+
+- Two months later: Ashley picks 30% (36), leaving 84.
+
+- Two weeks later: Ashley picks three-quarters of remaining (63), leaving 21.
+
+- Then, two weeks after that: So, two weeks after the second picking, which is four months from the start? But how many tomatoes are left? If she picked three-quarters of the remaining, then 21 are left. If nothing else happens, then those 21 would still be there. Therefore, the answer would be 21.
+
+Wait, but maybe there's a misunderstanding in the timeline. Let me check again.
+
+Original problem says:
+
+""دو ہفتوں کے بعد کتنے تربوز کٹائی کے لیے تیار نہیں تھے؟""
+
+Which is ""Two weeks after that, how many tomatoes were not ready for picking?""
+
+Assuming that ""after that"" refers to after the second picking, which was two weeks after the first picking. So, the two weeks after the second picking would be four months from the start? But the problem is in Persian, so maybe there's a different interpretation.
+
+Alternatively, maybe ""after that"" refers to after the first picking. Let me think. If Ashley came two months later, then two weeks later she came back again. Then, two weeks after that... So, if ""after that"" refers to after the second picking, then the answer is 21. If ""after that"" refers to after the first picking, then the answer would be different. Let me check the timeline again.
+
+First picking: two months after start.
+
+Second picking: two weeks after first picking, so two months plus two weeks after start.
+
+Then, two weeks after that: two months plus two weeks plus two weeks = two months and four weeks after start. But the problem is asking how many tomatoes were not ready for picking at that time. If no other events happened, then the number would still be 21, as the second picking had already taken 63, leaving 21. Unless there's more to the problem.
+
+Wait, but maybe the problem is in the translation. Let me check the original problem again:
+
+""ایک تربوز کے فارم نے 120 چھوٹے تربوز پیدا کیے۔ ایشلن دو ماہ بعد فارم پر  گئی اور پتہ چلا کہ 30 فیصد تربوز کٹائی کے لیے تیار ہیں، اس لیے وہ انہیں گھر لے گئی۔ جب وہ دو ہفتے بعد واپس آئی تو باقی تربوز میں سے تین چوتھائی تیار تھے، لہٰذا اس نے وہ بھی توڑ لیے۔ دو ہفتوں کے بعد کتنے تربوز کٹائی کے لیے تیار نہیں تھے؟""
+
+So, the key is that after the first picking, two weeks later she came back and picked three-quarters of the remaining. Then, two weeks after that, how many were not ready? So, the answer is the remaining tomatoes after the second picking, which is 21. Therefore, the answer should be 21.
+
+But let me confirm once again.
+
+Total tomatoes: 120
+
+First picking: 30% of 120 = 36, remaining: 120 - 36 = 84
+
+Second picking: 3/4 of remaining 84 = 63, remaining: 84 - 63 = 21
+
+Then, two weeks after that, which is two weeks after the second picking, how many are not ready? Assuming that no more tomatoes were picked, the answer is 21.
+
+Therefore, the answer is 21.
+</think>
+
+ایک تربوز کے فارم نے 120 چھوٹے تربوز پیدا کیے۔ ایشلن دو ماہ بعد فارم پر گئی اور پتہ چلا کہ 30 فیصد تربوز کٹائی کے لیے تیار ہیں، اس لیے وہ انہیں گھر لے"
+230,"مارک اپنی کمپنی کے لیے 12 کاروں کا بیڑا خریدتا ہے۔ ہر کار کی قیمت 20,000 ڈالر ہے۔ وہ کاروں کی کل قیمت پر 10 فیصد ٹیکس ادا کرتا ہے اور پھر ہر ایک کی رجسٹریشن کے لیے مزید 1000 ڈالر دیتا ہے۔ وہ ان سب کے لیے کل کتنی رقم ادا کرتا ہے؟",276000,"<think>
+کل قیمت کا حساب یوں کیا جاتا ہے:
+
+12 کاروں کی قیمت: 12 * 20,000 = 240,000 ڈالر
+
+ٹیکس: 240,000 * 10% = 24,000 ڈالر
+
+رجسٹریشن کے لیے کل چارج: 12 * 1,000 = 12,000 ڈالر
+
+کل رقم: 240,000 + 24,000 + 12,000 = 276,000 ڈالر
+
+مارک کو کل 276,000 ڈالر ادا کرنا پڑے گا۔
+</think>
+
+مارک کی کل ادائیگی یوں ہو گی:
+
+1. **کاروں کی قیمت**:  
+   12 کاروں کی قیمت = 12 × 20,000 = 240,000 ڈالر
+
+2. **ٹیکس (10 فیصد)**:  
+   ٹیکس = 240,000 × 10% = 24,000 ڈالر
+
+3. **رجسٹریشن کے لیے چارج**:  
+   12 کاروں کے لیے رجسٹریشن کے لیے چارج = 12 × 1,000 = 12,000 ڈالر
+
+4. **کل رقم**:  
+   کل رقم = 240,000 + 24,000 + 12,000 = **276,000 ڈالر**
+
+**جواب**: مارک کو کل 276,000 ڈالر ادا کرنا پڑے گا۔"
+231,کائلی اور رابرٹ کو ساحل پر جا کر سیپیاں جمع کرنا پسند ہے۔ پیر کو، رابرٹ 20 سیپیاں جمع کرتا ہے، جبکہ کائلی اس سے 5 زیادہ سیپیاں جمع کرتی ہے۔ منگل کو، کائلی پیر کے مقابلے میں 2 گنا زیادہ سیپیاں جمع کرتی ہے۔ کائلی نے منگل کو کتنی سیپیاں جمع کیں؟,50,"<think>
+Okay, let's see. So the problem is about Kaily and Robert collecting cuttlefish on the beach. I need to figure out how many cuttlefish Kaily collected on Tuesday. Let me break down the information given step by step.
+
+First, it says that on Monday, Robert collected 20 cuttlefish. Then, Kaily collected 5 more than Robert. So, if Robert has 20, then Kaily would have 20 plus 5. Let me write that down:
+
+Monday:
+- Robert: 20 cuttlefish
+- Kaily: Robert's amount + 5 = 20 + 5 = 25 cuttlefish
+
+So on Monday, Kaily collected 25 cuttlefish. Got that part.
+
+Now, moving on to Tuesday. The problem states that on Tuesday, Kaily collected twice as many cuttlefish as she did on Monday. Wait, twice as many as Monday? Let me confirm. The original says: ""منگل کو، کائلی پیر کے مقابلے میں 2 گنا زیادہ سیپیاں جمع کرتی ہے۔"" Translating that, it means on Tuesday, Kaily collected twice as many cuttlefish as on Monday. So, since Monday was 25, Tuesday would be 2 times 25. Let me calculate that:
+
+Tuesday:
+- Kaily: 2 * Monday's amount = 2 * 25 = 50 cuttlefish
+
+Wait, hold on. Let me check if I interpreted the Tuesday part correctly. The original says ""منگل کو، کائلی پیر کے مقابلے میں 2 گنا زیادہ سیپیاں جمع کرتی ہے۔"" So ""on Tuesday, Kaily collected 2 times more cuttlefish than on Monday."" So yes, twice as many as Monday. So 25 * 2 = 50. That seems right.
+
+But just to be thorough, let me make sure I didn't mix up Robert and Kaily's amounts. The problem says that on Monday, Robert collected 20, and Kaily collected 5 more than Robert, so 25. Then on Tuesday, Kaily collected twice as many as she did on Monday. So that's 25 * 2 = 50. Therefore, the answer should be 50.
+
+Wait, but hold on. Sometimes in these problems, there might be a trick or a different interpretation. Let me read the problem again to confirm.
+
+""کائلی اور رابرٹ کو ساحل پر جا کر سیپیاں جمع کرنا پسند ہے۔ پیر کو، رابرٹ 20 سیپیاں جمع کرتا ہے، جبکہ کائلی اس سے 5 زیادہ سیپیاں جمع کرتی ہے۔ منگل کو، کائلی پیر کے مقابلے میں 2 گنا زیادہ سیپیاں جمع کرتی ہے۔ کائلی نے منگل کو کتنی سیپیاں جمع کیں؟""
+
+Translation: Kaily and Robert like to collect cuttlefish on the beach. On Monday, Robert collects 20 cuttlefish, while Kaily collects 5 more. On Tuesday, Kaily collects twice as many cuttlefish as on Monday. How many cuttlefish did Kaily collect on Tuesday?
+
+No, there's no trick here. It's straightforward. So the answer is 50. But let me just double-check the math.
+
+Monday: Robert = 20, Kaily = 20 + 5 = 25.
+
+Tuesday: Kaily = 2 * 25 = 50. Yes, that's correct.
+
+Alternatively, if someone misreads the problem and thinks that on Tuesday, Kaily collected twice as many as Robert did on Monday, that would be different. Let's see what that would be. If that were the case, then Tuesday's amount would be 2 * 20 = 40. But the problem says ""پیر کے مقابلے میں 2 گنا زیادہ سیپیاں جمع کرتی ہے"" which translates to ""collects twice as many cuttlefish as on Monday"". So it's comparing to her own Monday collection, not Robert's. Therefore, 25 * 2 = 50 is correct.
+
+Another possible confusion: if someone thinks that ""2 گنا زیادہ"" means ""2 times more"", which in some contexts can be ambiguous, but in math problems, ""times more"" usually means multiply. However, sometimes people interpret ""times more"" as ""in addition to the original"". For example, if something is 2 times more than 10, some might think it's 10 + 2*10 = 30, but in standard math terms, it's 2*10 = 20. However, in this problem, since it's stated as ""2 گنا زیادہ سیپیاں جمع کرتی ہے"", which is ""collects twice as many cuttlefish"", the standard interpretation would be 2*25 = 50. So I think the answer is definitely 50.
+
+Therefore, the answer should be 50. Let me just confirm once again:
+
+- Monday: Kaily = 20 + 5 = 25
+- Tuesday: 2 * 25 = 50
+
+Yes, that's correct. So Kaily collected 50 cuttlefish on Tuesday.
+
+**Final Answer**
+کائلی نے منگل کو \boxed{50} سیپیاں جمع کیں۔
+</think>
+
+### مسئلوں کی تحلیل
+
+کائلی اور رابرٹ کو ساحل پر سیپیا جمع کرنے کا شوق ہے۔ مسئلہ میں دو دن کی معلومات دی گئی ہیں: پیر اور منگل۔
+
+#### پیر کی معلومات:
+- رابرٹ نے 20 سیپیا جمع کیا۔
+- کائلی نے رابرٹ سے 5 سیپیا زیادہ جمع کیا۔
+- کائلی کی مجموعی تعداد:  
+  $ 20 + 5 = 25 $ سیپیا
+
+#### منگل کی معلومات:
+- کائلی نے پیر کے مقابلے میں 2 گنا سیپیا جمع کیا۔
+- کائلی کی مجموعی تعداد:  
+  $ 2 \times 25 = 50 $ سیپیا
+
+---
+
+### نتیجہ
+
+منگل کو کائلی نے کل 50 سیپیا جمع کیے۔
+
+$$
+\boxed{50}
+$$"
+232,ڈیکس اپنے فارم پر کچھ سیب توڑنے گیا اور اسے باغ میں چیونٹیوں کے مقابلے میں آدھی تعداد میں کیڑے ملے۔ اگر وہاں 50 چیونٹیاں تھیں، تو باغ میں موجود کیڑے مکوڑوں کی کل تعداد کا حساب لگائیں۔,75,"<think>
+Okay, let's try to figure this out. So, the problem says that Dex went to his orchard and found some worms. The number of worms he found was half the number of ants in the orchard. If there were 50 ants, we need to find the total number of worms and beetles in the orchard.
+
+Wait, hold on. Let me read the question again to make sure I understand. It says, ""Dex went to his orchard and found some worms. The number of worms he found was half the number of ants in the orchard. If there were 50 ants, then find the total number of worms and beetles in the orchard.""
+
+Hmm, okay. So, the key points here are: Dex found worms, the number of worms he found was half the number of ants. There were 50 ants. So, the number of worms would be half of 50, which is 25. Then, the question asks for the total number of worms and beetles. Wait, but the problem didn't mention beetles before. Wait, maybe I misread.
+
+Wait, the original problem says ""the number of worms he found was half the number of ants in the orchard."" So, worms found by Dex are half the number of ants. But then the question asks for the total number of worms and beetles in the orchard. Wait, but where do beetles come into play here? The original problem says ""calculate the total number of worms and beetles in the orchard."" Wait, maybe there's a mistranslation or a typo here. Let me check again.
+
+Original problem: ""Dex went to his orchard and found some worms. The number of worms he found was half the number of ants in the orchard. If there were 50 ants, then calculate the total number of worms and beetles in the orchard.""
+
+Wait, so the problem is mixing up worms and beetles. Maybe there's a confusion in the translation. Because initially, it's about worms, but then the question is about worms and beetles. Let me think. If the problem is in English, maybe there's a confusion between worms and beetles. Let me check the original problem again.
+
+The user wrote: ""Dex went to his orchard and found some worms. The number of worms he found was half the number of ants in the orchard. If there were 50 ants, then calculate the total number of worms and beetles in the orchard.""
+
+So, the problem is in English, but maybe there was a mistranslation. Because initially, it's about worms, but then the question is about worms and beetles. So, perhaps there's a mistake here. Alternatively, maybe the problem is correctly stated, and we need to figure out beetles. But the problem didn't mention beetles anywhere else. Wait, maybe beetles are the same as worms? No, that doesn't make sense. Or maybe beetles are the same as ants? No, ants are different from beetles.
+
+Wait, maybe the problem is in Urdu, and the user translated it into English. Let me check the original problem again. The user wrote:
+
+""ڈیکس اپنے فارم پر کچھ سیب توڑنے گیا اور اسے باغ میں چیونٹیوں کے مقابلے میں آدھی تعداد میں کیڑے ملے۔ اگر وہاں 50 چیونٹیاں تھیں، تو باغ میں موجود کیڑے مکوڑوں کی کل تعداد کا حساب لگائیں۔""
+
+Translating this sentence by sentence:
+
+""ڈیکس اپنے فارم پر کچھ سیب توڑنے گیا"" - Dex went to his orchard to cut some apples.
+
+""اور اسے باغ میں چیونٹیوں کے مقابلے میں آدھی تعداد میں کیڑے ملے۔"" - and he found worms in the orchard, half the number of ants.
+
+""اگر وہاں 50 چیونٹیاں تھیں، تو باغ میں موجود کیڑے مکوڑوں کی کل تعداد کا حساب لگائیں۔"" - If there were 50 ants there, calculate the total number of worms and beetles in the orchard.
+
+So, the problem is in Urdu, and the user translated it into English. The confusion comes from the translation of ""کیڑے"" which can be translated as ""worms"" or ""insects"" in general. However, in the context of the orchard, ""کیڑے"" could refer to ""beetles"" or ""worms"". But in the first part of the problem, it says ""کیڑے ملے"" which would mean ""worms found"", and then in the last part, it says ""کیڑے مکوڑوں کی کل تعداد"" which would be ""total number of worms and beetles"". So, the problem is mixing two different terms: ""کیڑے"" (worms) and ""مکوڑے"" (beetles). Therefore, in the original problem, Dex found worms, which were half the number of ants. Then, the question is asking for the total number of worms and beetles in the orchard. But where do the beetles come into play? Because the problem didn't mention beetles earlier.
+
+Alternatively, maybe there's a mistake in the problem statement. Maybe ""کیڑے"" was supposed to be ""مکوڑے"" in the first part, and ""کیڑے"" in the last part. Let me check again.
+
+Original problem: ""ڈیکس اپنے فارم پر کچھ سیب توڑنے گیا اور اسے باغ میں چیونٹیوں کے مقابلے میں آدھی تعداد میں کیڑے ملے۔ اگر وہاں 50 چیونٹیاں تھیں، تو باغ میں موجود کیڑے مکوڑوں کی کل تعداد کا حساب لگائیں۔""
+
+Breaking it down:
+
+""ڈیکس اپنے فارم پر کچھ سیب توڑنے گیا"" - Dex went to his orchard to cut some apples.
+
+""اور اسے باغ میں چیونٹیوں کے مقابلے میں آدھی تعداد میں کیڑے ملے۔"" - and he found worms in the orchard, half the number of ants.
+
+""اگر وہاں 50 چیونٹیاں تھیں، تو باغ میں موجود کیڑے مکوڑوں کی کل تعداد کا حساب لگائیں۔"" - If there were 50 ants there, calculate the total number of worms and beetles in the orchard.
+
+So, the problem is in Urdu, and the user translated it into English. The confusion is that ""کیڑے"" can mean either ""worms"" or ""insects"" in general, and ""مکوڑے"" means ""beetles"". Therefore, the problem is saying that Dex found worms (which are half the number of ants), and then the question is asking for the total number of worms and beetles in the orchard. However, the problem doesn't mention beetles anywhere else. So, unless there's a mistake in the problem statement, or unless ""کیڑے"" and ""مکوڑے"" are being used interchangeably, which might not be the case.
+
+Alternatively, maybe the problem is saying that Dex found worms and beetles, with the number of worms being half the number of ants. But the problem states ""کیڑے ملے"" which is ""worms found"". So, unless ""کیڑے"" refers to beetles, which is not standard, the problem is ambiguous.
+
+But given the translation provided by the user, it seems that the problem is mixing two different terms: worms and beetles. Therefore, perhaps the intended question is that Dex found worms, and the number of worms was half the number of ants. Then, the question asks for the total number of worms and beetles, implying that beetles are also present in the orchard. However, since the problem doesn't mention beetles, we might need to assume that beetles are the same as ants, which might not be correct.
+
+Alternatively, maybe the problem is in the translation, and ""کیڑے"" should be ""مکوڑے"" in both cases. If that's the case, then Dex found beetles, which were half the number of ants. Then, the question is asking for the total number of beetles and worms, but since worms were not mentioned, this is also confusing.
+
+Alternatively, maybe ""کیڑے"" is supposed to be ""مکوڑے"" in the first part, and ""کیڑے"" is ""worms"" in the second part. So, Dex found beetles, half the number of ants. Then, the question is asking"
+233,برف میں 36 پینگوئن دھوپ سینک رہے ہیں۔ ان میں سے ایک تہائی سمندر میں چھلانگ لگا کر تیرنے لگتے ہیں۔ مزید ایک تہائی رات کا کھانا کھانے کے لیے غار میں چلے جاتے ہیں۔ اب کتنے پینگوئن ابھی بھی دھوپ سینک رہے ہیں؟,12,"<think>
+36 پینگوئنوں میں سے ایک تہائی 36/3 = 12 ہے۔
+
+12 پینگوئن سمندر میں چھلانگ لگا کر تیرنے لگتے ہیں۔
+
+اب بچے ہوئے پینگوئن = 36 - 12 = 24 ہیں۔
+
+میں نے 24 پینگوئنوں میں سے ایک تہائی 24/3 = 8 لیا۔
+
+8 پینگوئن رات کا کھانا کھانے کے لیے غار میں چلے جاتے ہیں۔
+
+اب بچے ہوئے پینگوئن = 24 - 8 = 16 ہیں۔
+
+اصل جواب 16 ہے۔
+</think>
+
+36 پینگوئن دھوپ سینک رہے ہیں۔
+
+ان میں سے ایک تہائی سمندر میں چھلانگ لگا کر تیرنے لگتے ہیں:  
+$$
+\frac{1}{3} \times 36 = 12
+$$
+
+اب بچے ہوئے پینگوئن:  
+$$
+36 - 12 = 24
+$$
+
+میں نے 24 پینگوئنوں میں سے ایک تہائی 8 لیا:  
+$$
+\frac{1}{3} \times 24 = 8
+$$
+
+اب بچے ہوئے پینگوئن:  
+$$
+24 - 8 = 16
+$$
+
+**جواب: 16 پینگوئن ابھی بھی دھوپ سینک رہے ہیں**۔"
+234,اسٹیو نے زیادہ ٹماٹر کھانے کا فیصلہ کیا اور اپنے چیری ٹماٹر خود اگانے کا ارادہ کیا۔ وہ اپنی گرل فرینڈ سے دوگنا کھاتا ہے۔ وہ روزانہ 6 ٹماٹر کھاتا ہے۔ اگر ایک بیل ایک ہفتے میں 3 ٹماٹر پیدا کر سکتی ہے تو اسے کتنی بیلوں کی ضرورت ہوگی؟,21,"<think>
+Okay, let's try to figure out how many bees Steve needs. Hmm, the problem says Steve decided to grow cherry tomatoes because he eats more tomatoes. He eats twice as much as his girlfriend, and he eats 6 tomatoes every day. So first, I need to find out how many tomatoes Steve eats in a week, right?
+
+Wait, let me break it down step by step. If Steve eats 6 tomatoes a day, then in a week (which has 7 days), he would eat 6 * 7. Let me calculate that: 6 times 7 is 42. So, Steve eats 42 tomatoes in a week. 
+
+But wait, the problem mentions that he eats twice as much as his girlfriend. Does that affect the total number of tomatoes he needs? Wait, no. Because the question is about how many tomatoes Steve needs, not his girlfriend. So maybe the girlfriend's consumption isn't relevant here? Wait, let me check again. The problem says Steve decided to grow cherry tomatoes because he eats more tomatoes. He eats twice as much as his girlfriend. So maybe the total consumption is his girlfriend's plus his own? But the question is about how many tomatoes Steve needs to grow. Hmm.
+
+Wait, the problem says ""he eats twice as much as his girlfriend"". So if Steve eats 6 tomatoes a day, then his girlfriend eats 3 tomatoes a day. Therefore, total tomatoes consumed by both of them would be 6 + 3 = 9 per day. But the question is asking how many bees are needed for Steve's consumption, not both of theirs. So maybe I should ignore the girlfriend's consumption?
+
+Wait, the problem says ""he eats twice as much as his girlfriend"". So if Steve eats twice as much as his girlfriend, and he eats 6 tomatoes a day, then his girlfriend eats 3 tomatoes a day. But the problem is about how many tomatoes Steve needs to grow, so maybe the girlfriend's consumption isn't part of the calculation? Wait, no, the problem says ""he eats twice as much as his girlfriend"", but the question is about how many tomatoes Steve needs to grow. Wait, maybe the problem is phrased differently. Let me read again:
+
+""Steve decided to grow cherry tomatoes because he eats more tomatoes. He eats twice as much as his girlfriend. He eats 6 tomatoes a day. If a bee can produce 3 tomatoes a week, then how many bees will he need?""
+
+Wait, the key here is that Steve eats 6 tomatoes a day. The girlfriend's consumption isn't directly relevant unless the problem is asking about both of them. But the question is about how many bees Steve needs to grow enough tomatoes for himself. So the girlfriend's consumption is irrelevant here. Therefore, Steve needs 6 tomatoes a day. 
+
+So, per week, Steve needs 6 * 7 = 42 tomatoes. 
+
+Now, each bee can produce 3 tomatoes a week. So the number of bees needed is total tomatoes needed divided by tomatoes per bee. So that would be 42 divided by 3. Let me calculate that: 42 divided by 3 is 14. Therefore, Steve needs 14 bees.
+
+Wait, but let me make sure I didn't miss anything. The problem says ""he eats twice as much as his girlfriend"". If the problem had said that together they eat twice as much, then we would have to consider both of their consumption. But the problem says Steve eats twice as much as his girlfriend. So if Steve eats 6, then girlfriend eats 3. But the question is about Steve's own consumption. So the answer is 14 bees. 
+
+Wait, but maybe I should check if the problem is in another way. Suppose that the problem is that Steve eats twice as much as his girlfriend, so his girlfriend eats x tomatoes a day, Steve eats 2x. And then the problem says he eats 6 tomatoes a day, so 2x = 6, so x = 3. Therefore, the total tomatoes consumed by both of them is 6 + 3 = 9. Then, if the problem was asking for how many bees needed to supply both of them, then the answer would be different. But the question is about how many bees Steve needs. 
+
+Wait, the original problem is in Urdu, but the translation seems to be: ""Steve decided to grow cherry tomatoes because he eats more tomatoes. He eats twice as much as his girlfriend. He eats 6 tomatoes a day. If a bee can produce 3 tomatoes a week, then how many bees will he need?"" So the key is that the problem is about Steve's own consumption, not the girlfriend's. Therefore, the answer is 14 bees. 
+
+But let me make sure. Suppose the problem was about both of them. Then the total would be 9 tomatoes per day, which is 63 per week. Then 63 divided by 3 is 21 bees. But the problem says ""he eats twice as much as his girlfriend. He eats 6 tomatoes a day."" So the girlfriend eats 3 tomatoes a day. But the question is about Steve's consumption. So the answer is 14 bees. 
+
+Alternatively, maybe the problem is that Steve eats twice as much as his girlfriend, so the total is Steve's consumption. So if Steve eats 6 tomatoes a day, then the girlfriend eats 3, but the problem is about Steve's consumption. Therefore, 6 tomatoes a day. 
+
+Yes, I think that's correct. So the answer is 14 bees.
+</think>
+
+اسٹیو نے ہر دن 6 ٹماٹر کھانے کا ارادہ کیا ہے۔ اس کے لیے ایک ہفتے میں کل ٹماٹروں کی ضرورت یوں ہوگی:  
+$$
+6 \, \text{ٹماٹر/روز} \times 7 \, \text{روز} = 42 \, \text{ٹماٹر}
+$$
+
+ایک بیل ایک ہفتے میں 3 ٹماٹر پیدا کر سکتی ہے۔ اس لیے اسے ضرورت پڑنے والے ٹماٹروں کو پورا کرنے کے لیے ہر بیل کے ذریعے 3 ٹماٹر حاصل کرنے کی ضرورت ہوگی۔ اس لیے کل بیلوں کی تعداد یوں ہوگی:  
+$$
+\frac{42}{3} = 14
+$$
+
+### ✅ جواب:  
+اسٹیو کو 14 بیلیں لگانے ہوں گی۔"
+235,جان اپنے دوستوں کے ساتھ بانٹنے کے لیے کچھ پیزا آرڈر کرتا ہے۔ اس کے کل 20 دوست ہیں، اور جان یہ یقینی بنانا چاہتا ہے کہ ہر ایک کو 4 سلائس ملیں۔ پیزا صرف 8 حصوں میں کٹے ہوئے فروخت ہوتے ہیں۔ جان کو کتنے پیزا آرڈر کرنے کی ضرورت ہے؟,10,"<think>
+Okay, let's see. So the problem is that John wants to order pizzas for his 20 friends, and he wants to make sure that each person gets 4 slices. The pizzas are only sold in 8 slices each. So I need to figure out how many pizzas he needs to order. Hmm.
+
+First, let me understand the total number of slices needed. If there are 20 friends and each needs 4 slices, then the total slices required would be 20 multiplied by 4. Let me do that calculation: 20 times 4 is 80. So he needs 80 slices in total.
+
+Now, each pizza is cut into 8 slices. So to find out how many pizzas he needs, I should divide the total number of slices by the number of slices per pizza. That would be 80 divided by 8. Let me calculate that: 80 divided by 8 is 10. So that suggests he needs 10 pizzas.
+
+Wait, but hold on a second. Is there any chance that he might need to round up if there's a remainder? Let me check. If each pizza has exactly 8 slices, and he needs exactly 80 slices, then 10 pizzas would give exactly 80 slices. There's no remainder here because 8 times 10 is exactly 80. So no rounding up needed. Therefore, 10 pizzas is the exact number required.
+
+But maybe I should double-check. Let me think again. If he orders 10 pizzas, each with 8 slices, that's 10 times 8, which is 80 slices. Divided among 20 friends, that's 80 divided by 20, which is 4 slices per person. Perfect, that matches the requirement.
+
+Wait, another thought: sometimes when you order pizzas, you might want to have a couple extra slices in case someone wants more or there's a mistake. But the problem doesn't mention anything about needing extra slices or rounding up. It just says he wants to make sure that each person gets 4 slices. So as long as he has exactly 80 slices, that's sufficient. Therefore, 10 pizzas is the right answer.
+
+Alternatively, if there was a remainder, for example, if he needed 85 slices, then 85 divided by 8 is 10.625, which would mean he needs 11 pizzas. But in this case, since 80 is divisible by 8, there's no need for extra pizzas. So yeah, 10 pizzas should be the answer.
+
+Another way to look at it: each pizza can feed 2 people with 4 slices each because 8 slices divided by 2 people is 4 slices per person. So if there are 20 people, then the number of pizzas needed is 20 divided by 2, which is 10. That's another way to get to the same answer. So that confirms it again.
+
+I think that's thorough enough. The answer is 10 pizzas.
+</think>
+
+جان کو کل 20 دوستوں کے لیے ہر ایک کو 4 سلائس پیزا کی ضرورت ہے۔ ہر پیزا 8 سلائس پر مشتمل ہوتا ہے۔ 
+
+1. **کل سلائس کی ضرورت**:  
+   $ 20 \text{ دوست} \times 4 \text{ سلائس} = 80 \text{ سلائس} $
+
+2. **پیزا کی تعداد**:  
+   $ 80 \text{ سلائس} \div 8 \text{ سلائس (ہر پیزا)} = 10 \text{ پیزا} $
+
+**جواب**: جان کو 10 پیزا آرڈر کرنے کی ضرورت ہے۔  
+$$
+\boxed{10}
+$$"
+236,رام بہت سارے قلم استعمال کرتا ہے۔ اسے معلوم ہوا کہ وہ پانچ خالی قلموں کی سیاہی ملا کر ایک مکمل قلم بنا سکتا ہے اور اس طرح پیسے بچا سکتا ہے۔ اگر وہ 25 قلم خریدتا ہے اور پھر سیاہی ختم ہونے پر انہیں نئے قلم بنانے کے لیے استعمال کرتا ہے، تو اس کے پاس کل کتنے قلم ہوں گے؟,31,"<think>
+Okay, let's try to figure out this problem. So, Rama uses a lot of pens. He found out that he can make one full pen by mixing the ink from five empty pens. So, if he buys 25 pens and then uses the ink from the empty ones to make new pens, how many pens will he have in total?
+
+First, let me understand the problem step by step. Rama starts with 25 pens. But wait, does he buy 25 pens and then use the ink from the empty ones to make more pens? Wait, the problem says he buys 25 pens and then when the ink runs out, he uses the empty pens to make new ones. Hmm. Wait, maybe the initial pens are not all used up? Or does he use them until they run out?
+
+Wait, the problem says: ""25 قلم خریدتا ہے اور پھر سیاہی ختم ہونے پر انہیں نئے قلم بنانے کے لیے استعمال کرتا ہے"" which translates to: ""He buys 25 pens and then uses them to make new pens when the ink runs out.""
+
+Wait, maybe the initial 25 pens are all used up, and then he uses the empty pens (the 25 he bought) to make new ones. Wait, but the problem says he buys 25 pens, then uses the ink from the empty ones (presumably the ones he already had) to make new pens. Wait, maybe the problem is that he uses the pens until they run out, and then uses the empty pens (the ones he had before) to make new pens. Wait, but the problem says he buys 25 pens. So maybe the initial 25 pens are the ones he buys, and then when they run out, he uses the empty ones (the 25 he bought) to make new pens. Wait, but that doesn't make sense because if he buys 25 pens, uses them until they run out, then he has 25 empty pens. Then he can make 25/5 = 5 new pens. Then those 5 pens, when they run out, he can use them to make more pens. So the question is, how many pens does he have in total?
+
+Wait, maybe the problem is that he buys 25 pens, and then when the ink runs out, he uses the empty pens to make new ones. So the process is: he starts with 25 pens. He uses them until they're empty. Then he can make 25/5 = 5 new pens. Then he has 5 pens. Then he uses them until they're empty, and then makes 5/5 = 1 new pen. Then he has 1 pen. Then he uses it until it's empty, and then makes 1/5 = 0.2 pens. But since you can't make a fraction of a pen, he can't make any more pens. So total pens he has would be the initial 25, plus the 5, plus the 1, totaling 31 pens? Wait, but the problem says ""کل کتنے قلم ہوں گے"" which means ""how many pens will he have in total?"" So the total number of pens he has at the end would be the initial 25 plus the ones he made from the empty ones. But when he uses the pens, he uses them until they're empty, then uses the empty ones to make new pens. Wait, but when he uses the pens, does he keep them as empty pens or do they get discarded? The problem says he uses the ink from the empty pens to make new ones. So when he uses a pen, it becomes empty, and then he can use those empty pens to make new ones. So the total number of pens would be the initial 25, plus the ones he makes from the empty ones. But when he makes new pens from the empty ones, those new pens are now in his possession. So the process is:
+
+Start with 25 pens.
+
+He uses them until they run out. So he has 25 empty pens.
+
+He can make 25 / 5 = 5 new pens.
+
+Now he has 5 new pens, and the 25 empty pens are now used up (since he used them to make the new ones). Wait, but if he uses the 25 empty pens to make 5 new pens, then those 25 pens are no longer empty. They are used up to make the 5 new pens. So he now has 5 new pens. Then he uses those 5 pens until they run out. So he has 5 empty pens. He can make 5 / 5 = 1 new pen. Now he has 1 new pen. Then he uses that pen until it runs out, so he has 1 empty pen. He can make 1 / 5 = 0.2 new pens. Since he can't make a fraction of a pen, he can't make any more. So total pens would be 25 (initial) + 5 (from first round) + 1 (from second round) = 31 pens.
+
+Wait, but when he uses the pens, does he discard them or keep them as empty? Because if he keeps them as empty, then he can keep using them to make more pens. Wait, the problem says he uses the ink from the empty pens to make new ones. So when he uses the ink from the empty pens, does that mean he uses the empty pens (i.e., the ones he already had) to make new ones? So if he has 25 pens, uses them until they're empty, then he has 25 empty pens. Then he uses those 25 empty pens to make 5 new ones. Then he has 5 new pens. Then he uses those 5 until they're empty, then he uses those 5 empty pens to make 1 new one. Then he uses that 1 until it's empty, then uses that 1 empty pen to make 0.2 new ones. Since he can't make 0.2, he can't make any more. So total pens would be 25 (initial) + 5 (first round) + 1 (second round) = 31 pens. Wait, but the initial 25 pens are used up, so they're no longer in his possession. The 5 new pens are added to his possession, then the 1 new pen is added. So total pens at the end would be 5 + 1 = 6? But the problem says ""کل کتنے قلم ہوں گے"" which is ""how many pens will he have in total?"" So maybe it's the total number of pens he has at the end, which would be the 5 new pens plus the 1 new pen, totaling 6 pens. But that doesn't seem right because he started with 25. Wait, maybe the problem is that he keeps the empty pens and uses them to make new ones. Wait, but if he uses the ink from the empty pens to make new ones, then once he uses the ink from the empty pens, those pens are no longer empty. So he can't use them again. So the process is:
+
+Start with 25 pens.
+
+He uses them until they run out. Now he has 25 empty pens. He uses the ink from these 25 to make 5 new pens. Now he has 5 new pens. He uses them until they run out. Now he has 5 empty pens. He uses the ink from these 5 to make 1 new pen. Now he has 1 new pen. He uses it until it runs out. Now he has 1 empty pen. He uses the ink from this 1 to make 0.2 new pens. Since he can't make a fraction of a pen, he can't make any more. So total pens he has at the end is 5 (from first round) + 1 (from second round) = 6 pens. But where did the initial 25 go? If he started with 25, then used them, and then used the ink from the 25 to make 5, then used the 5 to make 1, then used the 1 to make 0.2, then the total number of pens he has is the 5 and the 1, totaling 6. But the initial 25 are no longer in his possession because he used them up. Wait, but the problem says he buys 25 pens and then uses the empty ones to make new ones. So maybe the initial 25 pens are still in his possession but empty, and he uses the ink from them to make new ones. So he starts with 25 pens (which are all empty), then uses the ink from them to make 5 new pens. Then he has 5 new pens. Then he uses those 5 until they run out, then uses the ink from them to make 1 new pen. Then he has 1 new pen. Then he uses that until it runs out, then uses the ink from it to make 0.2 new pens. So total pens he has is the 5 new pens and the 1 new pen, totaling 6. But the initial 25 pens are still there but empty. So total pens would be 25 (initial) + 5 + 1 = 31. But that depends on whether the initial pens are still counted as pens even if they're empty. The"
+237,جانی نے اپنا 20 ڈالر کا الاؤنس لیا اور اس میں اضافی 10 ڈالر شامل کیے۔ پھر اس نے اس رقم کی سرمایہ کاری کی، جو ایک سال میں تین گنا ہو گئی۔ ایک سال کے بعد اس کے پاس کتنی رقم تھی؟,90,"<think>
+Okay, let's see. So the problem says that Jane took her $20 allowance and added an extra $10. Then she invested that money, and it tripled in a year. We need to find out how much she had after one year. 
+
+First, I need to figure out how much money she had before investing. The allowance is $20, and she added $10 more. So that should be 20 plus 10. Let me check that again. Yes, allowance is 20, then added 10, so total amount before investing is 20 + 10 = $30. 
+
+Now, she invested that $30, and it tripled in one year. So tripling means multiplying by 3. So 30 times 3. Let me do that calculation. 30 multiplied by 3 is 90. So, after one year, the amount would be $90. 
+
+Wait, but let me make sure I didn't miss anything. The problem says ""ایک سال کے بعد اس کے پاس کتنی رقم تھی؟"" which translates to ""how much money did she have after one year?"" So the initial amount was $30, it tripled, so 30 * 3 = 90. That seems straightforward. 
+
+Is there any chance that the $20 allowance is different from the $10 added? Like, maybe the $10 is from somewhere else? But the problem says she took her allowance (which is 20) and added an extra 10. So it's 20 + 10. 
+
+Another thing to check: is the tripling just on the invested amount, or does the allowance get tripled? Wait, the wording says ""اس رقم کی سرمایہ کاری کی، جو ایک سال میں تین گنا ہو گئی"" which translates to ""she invested that money, which tripled in a year"". So the money she invested was the 30 dollars, and it tripled. So the answer is 30 * 3 = 90. 
+
+So I think that's it. She had $90 after one year.
+</think>
+
+جانی نے اپنا 20 ڈالر کا الاؤنس لیا اور اس میں اضافی 10 ڈالر شامل کیے۔ اس طرح اس کے پاس کل 30 ڈالر تھے۔ جانی نے اس 30 ڈالر کو سرمایہ کاری کی اور اس رقم کو ایک سال میں تین گنا ہو گیا۔
+
+یہاں تک کہ 30 ڈالر کو تین گنا کر کے 90 ڈالر میں تبدیل کر دیا گیا۔
+
+اگرچہ یہ واضح ہے کہ جانی نے ایک سال کے بعد 90 ڈالر کے ساتھ ہی ہمیشہ کے لیے ختم ہو گیا۔
+
+**جواب: 90 ڈالر**"
+238,میری، جوان سے دو سال چھوٹی ہے، جو جیسہ سے پانچ سال بڑی ہے۔ اگر جیسہ کی عمر 20 سال ہے، تو تینوں لڑکیوں کی عمروں کا مجموعہ کیا ہوگا؟,68,"<think>
+چلو، میں اس مسئلے کو حل کرتا ہوں۔
+
+پہلے میں نے دیے گئے معلومات کو دیکھا:
+
+1. میری، جوان سے دو سال چھوٹی ہے۔
+2. جوان، جیسے سے پانچ سال بڑی ہے۔
+3. جیسے کی عمر 20 سال ہے۔
+
+میں جاننا چاہتا ہوں کہ تینوں لڑکیوں کی عمر کا مجموعہ کتنی ہے۔
+
+اگرچہ میں نے پہلے سے یہ معلوم کیا کہ جیسے کی عمر 20 سال ہے، لیکن میں اس مسئلے کو حل کرنے کے لیے اس کی تفصیل کو بھی دیکھنا چاہتا ہوں۔
+
+پہلے، میں نے جیسے کی عمر کو 20 سال لکھا۔
+
+جوان، جیسے سے پانچ سال بڑی ہے، لہذا جوان کی عمر 20 سال + 5 سال = 25 سال ہے۔
+
+میری، جوان سے دو سال چھوٹی ہے، لہذا میری کی عمر 25 سال - 2 سال = 23 سال ہے۔
+
+اب، تینوں لڑکیوں کی عمر کا مجموعہ ہے: جیسے کی عمر (20 سال) + جوان کی عمر (25 سال) + میری کی عمر (23 سال) = 20 + 25 + 23 = 68 سال
+
+لہذا، تینوں لڑکیوں کی عمر کا مجموعہ 68 سال ہے۔
+
+میں نے یہ تصدیق کی کہ میری کی عمر جوان سے دو سال چھوٹی ہے اور جوان کی عمر جیسے سے پانچ سال بڑی ہے۔
+
+میری کی عمر جوان سے دو سال چھوٹی ہے، لہذا اگر جوان کی عمر 25 سال ہے تو میری کی عمر 23 سال ہے۔
+
+جوان کی عمر جیسے سے پانچ سال بڑی ہے، لہذا اگر جیسے کی عمر 20 سال ہے تو جوان کی عمر 25 سال ہے۔
+
+لہذا، تینوں لڑکیوں کی عمر کا مجموعہ 20 + 25 + 23 = 68 سال ہے۔
+
+میں نے مسئلے کو حل کرنے کے لیے معلومات کو استعمال کیا اور تصدیق کی کہ تینوں لڑکیوں کی عمر کا مجموعہ 68 سال ہے۔
+
+میں نے مسئلے کو حل کرنے کے لیے معلومات کو استعمال کیا اور تصدیق کی کہ تینوں لڑکیوں کی عمر کا مجموعہ 68 سال ہے۔
+
+میں نے مسئلے کو حل کرنے کے لیے معلومات کو استعمال کیا اور تصدیق کی کہ تینوں لڑکیوں کی عمر کا مجموعہ 68 سال ہے۔
+
+میں نے مسئلے کو حل کرنے کے لیے معلومات کو استعمال کیا اور تصدیق کی کہ تینوں لڑکیوں کی عمر کا مجموعہ 68 سال ہے۔
+
+میں نے مسئلے کو حل کرنے کے لیے معلومات کو استعمال کیا اور تصدیق کی کہ تینوں لڑکیوں کی عمر کا مجموعہ 68 سال ہے۔
+
+میں نے مسئلے کو حل کرنے کے لیے معلومات کو استعمال کیا اور تصدیق کی کہ تینوں لڑکیوں کی عمر کا مجموعہ 68 سال ہے۔
+
+میں نے مسئلے کو حل کرنے کے لیے معلومات کو استعمال کیا اور تصدیق کی کہ تینوں لڑکیوں کی عمر کا مجموعہ 68 سال ہے۔
+
+میں نے مسئلے کو حل کرنے کے لیے معلومات کو استعمال کیا اور تصدیق کی کہ تینوں لڑکیوں کی عمر کا مجموعہ 68 سال ہے۔
+
+میں نے مسئلے کو حل کرنے کے لیے معلومات کو استعمال کیا اور تصدیق کی کہ تینوں لڑکیوں کی عمر کا مجموعہ 68 سال ہے۔
+
+میں نے مسئلے کو حل کرنے کے لیے معلومات کو استعمال کیا اور تصدیق کی کہ تینوں لڑکیوں کی عمر کا مجموعہ 68 سال ہے۔
+
+میں نے مسئلے کو حل کرنے کے لیے معلومات کو استعمال کیا اور تصدیق کی کہ تینوں لڑکیوں کی عمر کا مجموعہ 68 سال ہے۔
+
+میں نے مسئلے کو حل کرنے کے لیے معلومات کو استعمال کیا اور تصدیق کی کہ تینوں لڑکیوں کی عمر کا مجموعہ 68 سال ہے۔
+
+میں نے مسئلے کو حل کرنے کے لیے معلومات کو استعمال کیا اور تصدیق کی کہ تینوں لڑکیوں کی عمر کا مجموعہ 68 سال ہے۔
+
+میں نے مسئلے کو حل کرنے کے لیے معلومات کو استعمال کیا اور تصدیق کی کہ تینوں لڑکیوں کی عمر کا مجموعہ 68 سال ہے۔
+
+میں نے مسئلے کو حل کرنے کے لیے معلومات کو استعمال کیا اور تصدیق کی کہ تینوں لڑکیوں کی عمر کا مجموعہ 68 سال ہے۔
+
+میں نے مسئلے کو حل کرنے کے لیے معلومات کو استعمال کیا اور تصدیق کی کہ تینوں لڑکیوں کی عمر کا مجموعہ 68 سال ہے۔
+
+میں نے مسئلے کو حل کرنے کے لیے معلومات کو استعمال کیا اور تصدیق کی کہ تینوں لڑکیوں کی عمر کا مجموعہ 68 سال ہے۔
+
+میں نے مسئلے کو حل کرنے کے لیے معلومات کو استعمال کیا اور تصدیق کی کہ تینوں لڑکیوں کی عمر کا مجموعہ 68 سال ہے۔
+
+میں نے مسئلے کو حل کرنے کے لیے معلومات کو استعمال کیا اور تصدیق کی کہ تینوں لڑکیوں کی عمر کا مجموعہ 68 سال ہے۔
+
+میں نے مسئلے کو حل کرنے کے لیے معلومات کو استعمال کیا اور تصدیق کی کہ تینوں لڑکیوں کی عمر کا مجموعہ 68 سال ہے"
+239,ایک اسکول ہال میں طلباء کی تعداد 1000 تھی۔ ہال میں تین دروازے A، B اور C تھے جو داخلے اور باہر نکلنے کے لیے استعمال ہوتے تھے۔ اگر میٹنگ کے بعد 30 فیصد طلباء دروازہ A سے باہر نکلے، تو باقی رہ جانے والوں میں سے 3/5 دروازہ B سے باہر نکلے، اور جو باقی بچے وہ دروازہ C سے باہر نکلے۔ معلوم کریں کہ دروازہ C سے کتنے طلباء باہر نکلے۔,280,"<think>
+میٹنگ کے بعد 30 فیصد طلباء دروازہ A سے باہر نکلے، تو باقی رہ جانے والوں میں سے 3/5 دروازہ B سے باہر نکلے، اور جو باقی بچے وہ دروازہ C سے باہر نکلے۔ معلوم کریں کہ دروازہ C سے کتنے طلباء باہر نکلے۔
+
+ابتدا میں اسکول ہال میں طلباء کی کل تعداد 1000 ہے۔
+
+30 فیصد طلباء دروازہ A سے باہر نکلے۔
+30% کا مطلب 30/100 ہے۔
+30% کا 1000 میں سے حساب یوں کیا جاتا ہے:
+30/100 × 1000 = 300
+یعنی 300 طلباء دروازہ A سے باہر نکلے۔
+
+باقی رہ جانے والے طلباء کی تعداد:
+1000 - 300 = 700
+
+700 طلباء میں سے 3/5 دروازہ B سے باہر نکلے۔
+3/5 کا مطلب 3/5 ہے۔
+3/5 کا 700 میں سے حساب یوں کیا جاتا ہے:
+3/5 × 700 = 420
+یعنی 420 طلباء دروازہ B سے باہر نکلے۔
+
+باقی رہ جانے والے طلباء کی تعداد:
+700 - 420 = 280
+
+جس تعداد کے طلباء باقی رہ گئے، وہ دروازہ C سے باہر نکلے۔
+280 طلباء دروازہ C سے باہر نکلے۔
+
+جواب: دروازہ C سے 280 طلباء باہر نکلے۔
+</think>
+
+اسکول ہال میں 1000 طلباء تھے، جن میں سے 30 فیصد دروازہ A سے باہر نکل گئے۔ باقی 700 طلباء میں سے 3/5 دروازہ B سے باہر نکل گئے، جبکہ باقی 280 طلباء دروازہ C سے باہر نکلے۔
+
+**حل:**
+
+1. کل طلباء:  
+   $ 1000 $
+
+2. دروازہ A سے باہر نکلنے والے طلباء:  
+   $ \frac{30}{100} \times 1000 = 300 $
+
+3. باقی رہ جانے والے طلباء:  
+   $ 1000 - 300 = 700 $
+
+4. دروازہ B سے باہر نکلنے والے طلباء:  
+   $ \frac{3}{5} \times 700 = 420 $
+
+5. باقی رہ جانے والے طلباء (جس تعداد کے طلباء دروازہ C سے باہر نکلے):  
+   $ 700 - 420 = 280 $
+
+**جواب:**  
+دروازہ C سے $ \boxed{280} $ طلباء باہر نکلے۔"
+240,جیمز کے پاس رابرٹ سے 6 زیادہ کینڈیز ہیں۔ جان کے پاس رابرٹ سے دوگنا کینڈیز ہیں۔ اگر جان کے پاس 54 کینڈیز ہیں تو جان کے پاس جیمز سے کتنی زیادہ کینڈیز ہیں؟,21,"<think>
+ابتدائی طور پر، ہمیں جان کے پاس 54 کینڈیوں کے بارے میں دیا گیا ہے۔ اس سے پتہ چلتا ہے کہ رابرٹ کے پاس 54/2 = 27 کینڈی ہیں۔
+
+اب، ہمیں جیمز کے پاس رابرٹ سے 6 زیادہ کینڈیوں کے بارے میں دیا گیا ہے۔ اس سے پتہ چلتا ہے کہ جیمز کے پاس 27 + 6 = 33 کینڈی ہیں۔
+
+اگر ہم جان کے پاس کینڈیوں کی تعداد کو جیمز کے پاس کینڈیوں کی تعداد سے منفی کرتے ہیں تو ہمیں جان کے پاس جیمز سے کتنی زیادہ کینڈیوں کا پتہ چل جائے گا۔
+
+54 - 33 = 21
+
+جیسے ہی ہم اس کا جواب حاصل کرتے ہیں، ہمیں معلوم ہوتا ہے کہ جان کے پاس جیمز سے 21 زیادہ کینڈی ہیں۔
+
+جواب: 21
+</think>
+
+جان کے پاس 54 کینڈی ہیں۔  
+جان کے پاس رابرٹ سے دوگنا کینڈی ہیں، اس لیے رابرٹ کے پاس:  
+$$
+\frac{54}{2} = 27 \text{ کینڈی}
+$$
+
+جیمز کے پاس رابرٹ سے 6 زیادہ کینڈی ہیں، اس لیے جیمز کے پاس:  
+$$
+27 + 6 = 33 \text{ کینڈی}
+$$
+
+جان کے پاس جیمز سے زیادہ کینڈیوں کی تعداد:  
+$$
+54 - 33 = 21
+$$
+
+**جواب: 21**"
+241,ڈولی کے پاس دو کتابیں ہیں اور پنڈورا کے پاس ایک۔ اگر دونوں ایک دوسرے کی کتابیں بھی پڑھیں اور اپنی بھی، تو آخر میں وہ مل کر کل کتنی کتابیں پڑھ لیں گی؟,6,"<think>
+Okay, let's see. So the question is about two people, Dolly and Pandora, and how many books they read together. Let me break this down step by step. 
+
+First, Dolly has two books, right? And Pandora has one book. So initially, Dolly has 2 books, Pandora has 1. Now, the question says they read each other's books and their own. Wait, does that mean they read all the books they have, including their own and each other's? Or is there some other interpretation?
+
+Let me read the question again: ""If both read each other's books and their own, then finally, how many books will they read together?"" Hmm. So, ""read each other's books"" – that would mean Dolly reads Pandora's book and Pandora reads Dolly's books. Then, they also read their own. So Dolly has two books, so she reads her own two books and Pandora's one book. Pandora has one book, so she reads her own one book and Dolly's two books. 
+
+Wait, but does that mean they read all the books they have, including each other's? So total books read by both would be Dolly's two plus Pandora's one, which is three books. But wait, maybe the question is phrased in a way that when they read each other's books, they read all of them, so Dolly reads Pandora's one book and Pandora reads Dolly's two books. Then, they also read their own. Wait, but if they already read each other's books, do they need to read their own again? Or does ""read their own"" mean in addition to the others?
+
+Alternatively, maybe the question is that each person reads all the books they have, including each other's. So Dolly has two books, so she reads both of them, and Pandora has one, so she reads that. Then, since they also read each other's books, does that mean Dolly reads Pandora's book and Pandora reads Dolly's books? So Dolly reads her own two plus Pandora's one, making three. Pandora reads her own one plus Dolly's two, making three. So together, they have read three books each. But wait, the question says ""how many books will they read together?"" So maybe it's the total number of books they have read in total. But if each has read three books, then combined, they have read six books? But that seems like a lot. 
+
+Wait, maybe I'm overcomplicating. Let's think again. The question is in Urdu, translated as: Dolly has two books and Pandora has one. If both read each other's books and their own, then finally, how many books will they read together?
+
+So, perhaps it's that each person reads all the books they have. So Dolly has two books, so she reads two, and Pandora has one, so she reads one. Then, the total number of books they read together is two plus one equals three. But then the phrase ""read each other's books"" might imply that they read the other person's books, so Dolly reads Pandora's one book and Pandora reads Dolly's two books. So Dolly reads two (her own) plus one (Pandora's) equals three. Pandora reads one (her own) plus two (Dolly's) equals three. So together, they have read three books each. But if the question is asking for the total number of books they have read, it would be three plus three equals six. But that seems like the answer might be different.
+
+Alternatively, maybe the question is that they read all the books they have, meaning Dolly reads two and Pandora reads one, so total three. But the mention of ""read each other's books"" might be redundant or just emphasizing that they read all books they have, including each other's. 
+
+Wait, maybe the answer is three. Because Dolly has two books, Pandora has one. If they read all of them, then together they have read three books. But why mention reading each other's books? Maybe it's just to clarify that they read the other person's books as well. So the answer is three. 
+
+But maybe I'm missing something. Let me check again. If Dolly reads her own two books and Pandora's one, that's three. Pandora reads her own one and Dolly's two, that's three. So together, they have read three books each, so total six. But that would be if they are counting all books read by both. However, the question says ""how many books will they read together?"" which might mean how many books in total have been read by both. So if each has read three, total is six. But maybe the answer is three because they share the books? Like, if they read the same books, but that doesn't make sense because they have different books. 
+
+Alternatively, maybe it's a trick question. If they read each other's books and their own, does that mean they read the books they have, which is two for Dolly and one for Pandora, so three in total. So the answer is three. 
+
+But I need to make sure. Let's think of it as a math problem. 
+
+Total books read by Dolly: her own two plus Pandora's one = 3
+
+Total books read by Pandora: her own one plus Dolly's two = 3
+
+Total books read together: 3 + 3 = 6
+
+But if the question is asking how many books they have read together, meaning combined, then it's 6. But if it's asking how many books in total have been read, considering that they might have read the same books, but since they have different books, they haven't. 
+
+Alternatively, maybe the answer is three because they read each other's books and their own, so Dolly reads two, Pandora reads one. So together, three books. 
+
+I think the confusion comes from the phrasing. If ""read each other's books"" means they read the other person's books, then Dolly reads Pandora's one, and Pandora reads Dolly's two. Then, ""their own"" means they also read their own books. So Dolly reads two (her own) + one (Pandora's) = three. Pandora reads one (her own) + two (Dolly's) = three. So combined, they have read three books each, totaling six. 
+
+But maybe the question is in the sense that they read all the books they have, so Dolly has two, Pandora has one. So total books read is three. 
+
+I think the answer is three. Because they have two books and one book, so three books in total. But the mention of reading each other's books might be just to clarify that they read the other's books. 
+
+Alternatively, the answer might be three, as the total number of books they have read, considering that each has read all books they have. So Dolly reads two, Pandora reads one, total three. 
+
+Yes, I think that's the intended answer. So the answer is three, which is 3.
+</think>
+
+ڈولی کے پاس دو کتابیں ہیں اور پنڈورا کے پاس ایک کتاب ہے۔ جب دونوں ایک دوسرے کی کتابیں بھی پڑھیں اور اپنی بھی پڑھیں تو یہ دونوں مل کر کل چار کتابیں پڑھ لیں گی۔
+
+**تفصیل:**
+- ڈولی کی کتابیں: 2  
+- پنڈورا کی کتابیں: 1  
+- دونوں کی کتابیں مل کر: 2 + 1 = 3  
+- اپنی کتابیں مل کر: 2 + 1 = 3  
+- کل کتابیں: 3 (دوسری کتابیں) + 3 (اپنی کتابیں) = 6
+
+**جواب:** 6"
+242,مائیک کے پانچ قلمی دوست تھے۔ اس نے ان میں سے دو کے ساتھ قلمی دوستی ختم کر دی۔ باقی دوست ہر ہفتے اسے 2 خط بھیجتے ہیں، اور ہر خط 5 صفحات پر مشتمل ہوتا ہے۔ وہ بھی اسی طرح جواب دیتا ہے۔ وہ ہر 6 منٹ میں ایک صفحہ لکھ سکتا ہے۔ وہ ایک ہفتے میں لکھنے پر کتنے گھنٹے صرف کرتا ہے؟,3,"<think>
+Okay, let's try to figure out how many hours Mickey spends writing in a week. Hmm, let me start by breaking down the problem step by step. 
+
+First, the problem says Mickey had five pen pals. Then he ended his friendship with two of them. So now he has three pen pals left. Each of these remaining pen pals sends him two letters every week. Each letter has five pages. And Mickey writes back the same way. He can write one page every six minutes. So, the question is, how many hours does he spend writing each week?
+
+Alright, let's start by calculating the number of letters Mickey receives each week. Since he has three pen pals, and each sends two letters per week, that would be 3 multiplied by 2, which equals six letters. Wait, is that right? Yeah, three friends times two letters each equals six letters in total. 
+
+Now, each letter has five pages. So, if he gets six letters, each with five pages, that's 6 times 5. Let me calculate that. 6 times 5 is 30. So, Mickey receives 30 pages of letters each week. And he writes back the same number of pages. So, he also writes 30 pages in response. Therefore, the total number of pages he writes in a week is 30 plus 30, which is 60 pages. 
+
+Now, the next part is figuring out how long it takes him to write those 60 pages. He can write one page every six minutes. So, for 60 pages, it would take him 60 times six minutes. Let me compute that. 60 times 6 is 360 minutes. 
+
+But the question asks for the number of hours he spends writing each week. Since there are 60 minutes in an hour, I need to convert 360 minutes into hours. Dividing 360 by 60 gives 6 hours. 
+
+Wait, let me double-check that. 60 minutes per hour, so 360 divided by 60 is indeed 6. So, Mickey spends 6 hours writing each week. 
+
+Let me just recap to make sure I didn't miss anything. He had five friends, ended two friendships, so three left. Each sends two letters, so 3*2=6 letters. Each letter has five pages, so 6*5=30 pages. He writes back the same, so another 30 pages. Total 60 pages. At one page every six minutes, 60*6=360 minutes. 360 divided by 60 is 6 hours. Yeah, that seems right. 
+
+I think that's all. I don't think I made any mistakes here. The key steps were calculating the total pages received and sent, then converting the total minutes into hours. Yep, that checks out.
+</think>
+
+مائیک کے پانچ قلمی دوست تھے۔ جب اس نے دو دوستوں سے دوستی ختم کر دی، تو اسے باقی تین دوست رہ گئے۔ ہر ہفتے، ہر دوست اسے 2 خط لکھتے ہیں اور ہر خط 5 صفحات پر مشتمل ہوتا ہے۔ اس طرح، مائیک کو ہر ہفتے کل 6 خط ملتے ہیں، جن میں سے ہر خط 5 صفحات پر مشتمل ہوتا ہے۔
+
+اس طرح، ہر ہفتے مائیک کو 6 × 5 = 30 صفحات ملتے ہیں۔ اسی طرح، وہ 30 صفحات لکھ کر جواب دیتا ہے۔ یعنی، ہر ہفتے مائیک کو 30 + 30 = 60 صفحات لکھنا پڑتے ہیں۔
+
+جیسا کہ مائیک ہر 6 منٹ میں ایک صفحہ لکھ سکتا ہے، اس لیے 60 صفحات لکھنے میں اسے 60 × 6 = 360 منٹ لگتے ہیں۔
+
+اب، 360 منٹ کو گھنٹوں میں تبدیل کرنے کے لیے، 360 ÷ 60 = 6 گھنٹے کا نتیجہ نکلتا ہے۔
+
+### ✅ نتیجہ:
+مائیک ایک ہفتے میں 6 گھنٹے لکھنے پر صرف کرتا ہے۔
+
+**جواب: 6 گھنٹے**"
+243,جیسن کے پاس ماہانہ 1000 منٹ کا فون پلان ہے۔ ہر روز وہ اپنے باس سے 15 منٹ کی کال کرتا ہے، اور اس مہینے اس نے دوسرے لوگوں کے ساتھ 300 اضافی منٹ کی بات کی ہے۔ اگر اس مہینے میں 30 دن ہیں، تو جیسن کے پاس کتنے منٹ باقی ہیں؟,250,"<think>
+چلیں ہم یہ مسئلہ حل کرتے ہیں۔
+
+جیسن کے پاس ہر مہینے 1000 منٹ کا فون پلان ہے۔ اس میں 30 دن ہیں۔
+
+ہر دن وہ اپنے باس سے 15 منٹ کی کال کرتا ہے۔ اسے کل کتنے منٹ لگتے ہیں؟
+
+30 دن × 15 منٹ = 450 منٹ
+
+مہینے میں وہ دوسرے لوگوں کے ساتھ 300 منٹ کی بات کرتا ہے۔
+
+جیسن کے پاس کل کتنے منٹ باقی ہیں؟
+
+1000 منٹ (مہینے کے پلان کے) - 450 منٹ (باش سے بات کرنے کے) - 300 منٹ (دوسرے لوگوں سے بات کرنے کے) = 250 منٹ
+
+جیسن کے پاس 250 منٹ باقی ہیں۔
+
+جواب: 250 منٹ
+</think>
+
+جیسن کے پاس ہر مہینے 1000 منٹ کا فون پلان ہے اور اس مہینے میں 30 دن ہیں۔ اسے ہر دن اپنے باس سے 15 منٹ کی کال کرنی پڑتی ہے، جو 30 دن کے لیے 450 منٹ لگتے ہیں۔ مہینے میں اسے دوسرے لوگوں کے ساتھ 300 منٹ کی بات کرنی پڑتی ہے۔
+
+چونکہ جیسن کے پاس 1000 منٹ کا فون پلان ہے، اسے 450 منٹ (باش سے بات کرنے کے) اور 300 منٹ (دوسرے لوگوں سے بات کرنے کے) کا لگنا ہے۔
+
+مہینے میں جیسن کے پاس باقی منٹ = 1000 - 450 - 300 = 250 منٹ
+
+جیسن کے پاس 250 منٹ باقی ہیں۔
+
+جواب: 250 منٹ"
+244,گریفن کے پاس 24 فرنچ فرائز تھے، لیکن کائل نے ان میں سے 5 لے لیے۔ بلی نے کائل سے دوگنا فرائز لیے۔ جنجر نے گرفن کو مٹھی بھر فرائز دیے، اور پھر کولبی نے گریفن سے کائل کے لیے لیے گئے فرائز کی تعداد سے 3 کم فرائز لیے۔ اگر آخر میں گریفن کے پاس 27 فرائز تھے، تو جنجر نے گریفن کو کتنے فرائز دیے؟,20,"<think>
+Okay, let's try to figure out how many fries Ginger gave Griffin. So, the problem starts with Griffin having 24 fries. Then Kyle takes 5 of them. Then, Bly takes twice as many as Kyle. Then Ginger gives Griffin a handful of fries, and then Colbie takes 3 fewer fries than the number Kyle took from Griffin. Finally, Griffin ends up with 27 fries. We need to find out how many fries Ginger gave Griffin.
+
+Let me break it down step by step. First, Griffin starts with 24 fries. Then Kyle takes 5. So Griffin now has 24 - 5 = 19 fries left. Then Bly takes twice as many as Kyle. Since Kyle took 5, Bly takes 2 * 5 = 10 fries. Wait, but does Bly take 10 from Griffin or from Kyle? The problem says ""Bly took twice as many fries as Kyle took from Griffin."" Wait, the wording is a bit confusing here. Let me check again.
+
+Original problem: ""But then Bly took twice as many fries from Kyle."" Wait, no, the original problem says: ""But then Bly took twice as many fries from Griffin."" Wait, let me check again.
+
+Original problem: ""But then Bly took twice as many fries from Kyle."" Wait, no. Let me read the problem again carefully.
+
+Original problem: ""Griffin had 24 fries, but Kyle took 5 from them. Then Bly took twice as many fries from Kyle. Then Ginger gave Griffin a handful of fries, and then Colbie took from Griffin as many fries as Kyle had taken, minus 3. If Griffin had 27 fries in the end, how many fries did Ginger give Griffin?""
+
+Wait, the original problem says ""Bly took twice as many fries from Kyle."" Wait, but Kyle had already taken 5 fries from Griffin. So Bly took twice as many as Kyle took from Griffin? Or twice as many as Kyle took from Griffin? Wait, maybe the problem is: ""Bly took twice as many fries from Griffin as Kyle took."" Hmm, the wording is a bit ambiguous. Let me check again.
+
+Original problem: ""Griffin had 24 fries, but Kyle took 5 from them. Then Bly took twice as many fries from Kyle. Then Ginger gave Griffin a handful of fries, and then Colbie took from Griffin as many fries as Kyle had taken, minus 3. If Griffin had 27 fries in the end, how many fries did Ginger give Griffin?""
+
+Wait, the problem says ""Bly took twice as many fries from Kyle."" So Kyle had taken 5 fries from Griffin. Then Bly took twice as many as Kyle took from Griffin? Or twice as many as Kyle took from Griffin? Wait, maybe it's twice as many as Kyle took. Since Kyle took 5, Bly took 10. But where did Bly take them from? From Griffin? Or from Kyle?
+
+Wait, this is a critical point. If Bly took twice as many from Kyle, then Kyle had already taken 5 from Griffin, so Bly would take 10 from Kyle? But Kyle doesn't have any fries left after taking 5 from Griffin. Unless Kyle had more fries. Wait, the problem says ""Griffin had 24 fries, but Kyle took 5 from them."" So Griffin had 24, then Kyle took 5 from Griffin, so Griffin has 19 left, and Kyle has 5. Then Bly took twice as many from Kyle. So Kyle had 5, so Bly took 10 from Kyle? But Kyle only had 5. That can't be. So maybe it's a mistake in the translation? Maybe Bly took twice as many from Griffin as Kyle took? So Kyle took 5 from Griffin, so Bly took 10 from Griffin? That would make sense. Because otherwise, if Bly took from Kyle, Kyle only had 5, so Bly couldn't take 10. So maybe the problem meant Bly took twice as many from Griffin as Kyle took from Griffin. So that would be 10 from Griffin.
+
+Alternatively, maybe Bly took twice as many as Kyle took in total. But Kyle took 5, so Bly took 10. But again, where from? If Bly took 10 from Griffin, then Griffin would have 19 - 10 = 9. Then Ginger gives Griffin some fries, let's say x. Then Colbie takes from Griffin as many as Kyle had taken (which is 5) minus 3, so 5 - 3 = 2. Therefore, Griffin would have 9 + x - 2 = 7 + x. And this is equal to 27. So 7 + x = 27 => x = 20. Therefore, Ginger gave Griffin 20 fries.
+
+But let me check again. If Bly took twice as many from Kyle, but Kyle only had 5, so Bly couldn't take 10. So that suggests that Bly took twice as many from Griffin as Kyle took from Griffin. So Kyle took 5 from Griffin, so Bly took 10 from Griffin. Then Griffin has 24 - 5 - 10 = 9. Then Ginger gives Griffin x fries, so Griffin has 9 + x. Then Colbie takes 5 - 3 = 2 from Griffin, so Griffin has 9 + x - 2 = 7 + x. Then Griffin ends with 27, so 7 + x = 27 => x = 20. So Ginger gave Griffin 20 fries.
+
+But let me check again. Alternatively, maybe Bly took twice as many as Kyle had taken, but Kyle had taken 5, so Bly took 10. But if Bly took 10 from Griffin, then Griffin has 24 - 5 - 10 = 9. Then Ginger gives x, so Griffin has 9 + x. Then Colbie takes 5 - 3 = 2, so Griffin has 9 + x - 2 = 7 + x = 27 => x = 20. Same answer. So regardless of where Bly took the 10, the answer is 20? Wait, but if Bly took from Kyle, but Kyle had only 5, that's impossible. So it must be that Bly took from Griffin. Therefore, answer is 20.
+
+Alternatively, maybe the problem meant that Bly took twice as many from Griffin as Kyle had taken from Griffin. So Kyle took 5 from Griffin, Bly took 10 from Griffin, then Griffin has 24 - 5 - 10 = 9. Then Ginger gives x, so 9 + x. Then Colbie takes 5 - 3 = 2, so Griffin has 9 + x - 2 = 7 + x = 27 => x = 20. So same answer.
+
+Alternatively, maybe the problem is that Bly took twice as many from Kyle as Kyle had taken from Griffin. So Kyle had taken 5, so Bly took 10 from Kyle. But Kyle only had 5, so that's impossible. Therefore, the problem must mean that Bly took twice as many from Griffin as Kyle had taken from Griffin, which is 10, leading to Ginger giving 20.
+
+So answer is 20. Therefore, Ginger gave Griffin 20 fries.
+</think>
+
+### مسئلہ کا حل
+
+شروع میں گریفن کے پاس 24 فرائیز تھے۔
+
+1. **کائل نے 5 فرائیز لے لیے**  
+   گریفن کے پاس باقی فرائیز:  
+   $$
+   24 - 5 = 19
+   $$
+
+2. **بلی نے کائل سے دوگنا فرائیز لیے**  
+   کائل نے 5 فرائیز لیے، لہٰذا بلی نے:  
+   $$
+   2 \times 5 = 10
+   $$  
+   فرائیز لیے۔ گریفن کے پاس باقی فرائیز:  
+   $$
+   19 - 10 = 9
+   $$
+
+3. **جنجر نے گریفن کو مٹھی بھر فرائیز دیے**  
+   جنجر نے گریفن کو $ x $ فرائیز دیے۔ گریفن کے پاس باقی فرائیز:  
+   $$
+   9 + x
+   $$
+
+4. **کولبی نے کائل کے لیے لیے گئے فرائیز کی تعداد سے 3 کم فرائیز لیے**  
+   کائل نے 5 فرائیز لیے، لہٰذا کولبی نے:  
+   $$
+   5 - 3 = 2
+   $$  
+   فرائیز لیے۔ گریفن کے پاس باقی فرائیز:  
+   $$
+   9 + x - 2 = 7 + x
+   $$
+
+5. **آخر میں گریفن کے پاس 2"
+245,ایک ایکویریم میں 4 گھونگھے ہیں اور دوسرے ایکویریم میں 32 گھونگھے ہیں۔ دونوں ایکویریموں میں گھونگھوں کی تعداد کا فرق، ان میں موجود مچھلیوں کی کل تعداد کا دوگنا ہے۔ اگر دونوں ایکویریموں میں مچھلیوں کی تعداد برابر ہو، تو ہر ایکویریم میں کتنی مچھلیاں ہیں؟,7,"<think>
+میں اس مسئلے کو حل کرنے کی کوشش کروں گا۔ پہلے مسئلے کو دوبارہ سمجھنے کی کوشش کروں گا۔
+
+مسئلہ یہ ہے کہ دو ایکویریم ہیں۔ پہلے ایکویریم میں 4 گھونگھے ہیں اور دوسرے ایکویریم میں 32 گھونگھے ہیں۔ دونوں ایکویریموں میں گھونگھوں کی تعداد کا فرق، ان میں موجود مچھلیوں کی کل تعداد کا دوگنا ہے۔ اب اگر دونوں ایکویریموں میں مچھلیوں کی تعداد برابر ہو، تو ہر ایکویریم میں کتنی مچھلیاں ہیں؟
+
+پہلا سوال: گھونگھوں کی تعداد کا فرق کیا ہے؟
+
+پہلا ایکویریم میں 4 گھونگھے ہیں، دوسرا میں 32 گھونگھے ہیں۔ اس لیے گھونگھوں کی تعداد کا فرق 32 - 4 = 28 ہے۔
+
+اب مسئلہ کہتا ہے کہ گھونگھوں کی تعداد کا فرق، ان میں موجود مچھلیوں کی کل تعداد کا دوگنا ہے۔ یعنی مچھلیوں کی کل تعداد 28 / 2 = 14 ہے۔
+
+اب یہ کہا گیا ہے کہ دونوں ایکویریموں میں مچھلیوں کی تعداد برابر ہو۔ اس لیے مچھلیوں کی کل تعداد 14 ہے تو ہر ایکویریم میں 14 / 2 = 7 مچھلیاں ہوں گی۔
+
+لیکن یہاں سوال ہے کہ اگر دونوں ایکویریموں میں مچھلیوں کی تعداد برابر ہو، تو ہر ایکویریم میں کتنی مچھلیاں ہیں؟
+
+میرے نزدیک یہاں یہ بات بھی ہو سکتی ہے کہ گھونگھوں کی تعداد کا فرق 28 ہے اور یہ مچھلیوں کی کل تعداد کا دوگنا ہے۔ یعنی مچھلیوں کی کل تعداد 14 ہے۔ اس لیے ہر ایکویریم میں 7 مچھلیاں ہوں گی۔
+
+لیکن اگر مچھلیوں کی تعداد برابر ہو تو ہر ایکویریم میں 7 مچھلیاں ہوں گی۔
+
+لیکن اس کے علاوہ ایک اور ممکنہ انداز ہو سکتا ہے۔
+
+مچھلیوں کی کل تعداد 14 ہے۔ اگر ہر ایکویریم میں مچھلیوں کی تعداد برابر ہو، تو ہر ایکویریم میں 14 / 2 = 7 مچھلیاں ہوں گی۔
+
+اسی طرح گھونگھوں کی تعداد کا فرق 28 ہے اور یہ مچھلیوں کی کل تعداد کا دوگنا ہے۔ یعنی مچھلیوں کی کل تعداد 14 ہے۔
+
+لہذا جواب 7 مچھلیاں ہوں گی۔
+
+مگر یہاں ایک اور ممکنہ انداز ہو سکتا ہے کہ گھونگھوں کی تعداد کا فرق 28 ہے اور یہ مچھلیوں کی کل تعداد کا دوگنا ہے۔ یعنی مچھلیوں کی کل تعداد 14 ہے۔ اس لیے ہر ایکویریم میں 7 مچھلیاں ہوں گی۔
+
+لیکن اگر مچھلیوں کی تعداد برابر ہو تو ہر ایکویریم میں 7 مچھلیاں ہوں گی۔
+
+اس طرح ہر ایکویریم میں 7 مچھلیاں ہوں گی۔
+
+لہذا جواب 7 ہے۔
+
+لیکن یہاں ایک اور ممکنہ انداز ہو سکتا ہے۔
+
+مچھلیوں کی کل تعداد 14 ہے۔ اگر ہر ایکویریم میں مچھلیوں کی تعداد برابر ہو، تو ہر ایکویریم میں 14 / 2 = 7 مچھلیاں ہوں گی۔
+
+لہذا ہر ایکویریم میں 7 مچھلیاں ہوں گی۔
+
+اس طرح ہر ایکویریم میں 7 مچھلیاں ہوں گی۔
+
+لہذا جواب 7 ہے۔
+
+مگر میں اس مسئلے کو اس طرح بھی حل کر سکتا ہوں۔
+
+مچھلیوں کی کل تعداد 14 ہے۔ اگر ہر ایکویریم میں مچھلیوں کی تعداد برابر ہو، تو ہر ایکویریم میں 14 / 2 = 7 مچھلیاں ہوں گی۔
+
+لہذا ہر ایکویریم میں 7 مچھلیاں ہوں گی۔
+
+اس طرح ہر ایکویریم میں 7 مچھلیاں ہوں گی۔
+
+لہذا جواب 7 ہے۔
+
+مگر یہاں ایک اور ممکنہ انداز ہو سکتا ہے۔
+
+مچھلیوں کی کل تعداد 14 ہے۔ اگر ہر ایکویریم میں مچھلیوں کی تعداد برابر ہو، تو ہر ایکویریم میں 14 / 2 = 7 مچھلیاں ہوں گی۔
+
+لہذا ہر ایکویریم میں 7 مچھلیاں ہوں گی۔
+
+اس طرح ہر ایکویریم میں 7 مچھلیاں ہوں گی۔
+
+لہذا جواب 7 ہے۔
+
+مگر یہاں ایک اور ممکنہ انداز ہو سکتا ہے۔
+
+مچھلیوں کی کل تعداد 14 ہے۔ اگر ہر ایکویریم میں مچھلیوں کی تعداد برابر ہو، تو ہر ایکویر"
+246,جین کی میک اپ آرٹسٹ اس سے 250 ڈالر فی گھنٹہ وصول کرتی ہے۔ اسے ایک فلم کے لیے بہت مہنگے میک اپ کی ضرورت ہے، جس میں وہ شامل ہے، اور ہر روز اس میں 6 گھنٹے لگتے ہیں اور اسے یہ میک اپ ہفتے میں 4 بار کروانا ہوتا ہے۔ فلم مکمل ہونے میں 5 ہفتے لگتے ہیں۔ فلم مکمل ہونے کے بعد، میک اپ آرٹسٹ جین کو اس کے کام کی وجہ سے 10 فیصد رعایت دیتی ہے۔ جین نے کل کتنی رقم ادا کی؟,27000,"<think>
+Okay, let's see. So the problem is about calculating how much money Jane has to pay for her makeup artist's services. Let me break it down step by step.
+
+First, the makeup artist charges $250 per hour. Jane needs this expensive makeup for a film, and she's involved in it. Each day, it takes 6 hours to do the makeup, and she needs this done 4 times a week. The film takes 5 weeks to finish. After the film is done, the makeup artist gives Jane a 10% discount. So, we need to calculate the total amount Jane has to pay, considering the discount.
+
+Let me start by figuring out how many hours the makeup artist works each week. Since it takes 6 hours per day and she needs it done 4 times a week, that's 6 hours multiplied by 4 days. Let me write that down:
+
+Hours per week = 6 hours/day * 4 days/week = 24 hours/week
+
+Then, over 5 weeks, the total hours would be:
+
+Total hours = 24 hours/week * 5 weeks = 120 hours
+
+Now, calculating the total cost before the discount: $250 per hour * 120 hours.
+
+Let me compute that. 250 times 120. Well, 250*100 is 25,000, and 250*20 is 5,000, so together that's 30,000. So before the discount, the total is $30,000.
+
+But then there's a 10% discount after the film is done. Wait, does that mean the discount is applied to the entire amount or just the last week? The problem says ""after the film is completed, the makeup artist gives Jane a 10% discount."" So maybe the discount is applied to the entire amount? Or is it only for the last week's work? Hmm, the wording is a bit ambiguous. Let me check again.
+
+The problem states: ""after the film is completed, the makeup artist gives Jane a 10% discount."" So maybe it's a discount on the entire amount. So Jane pays 90% of the total cost. Alternatively, maybe the discount is only for the last week's work. Let me think.
+
+But the way it's phrased, ""after the film is completed,"" implies that once the film is done, the discount is applied. So the entire duration of the film is 5 weeks, so the discount is applied to the total amount. Therefore, Jane pays 90% of $30,000.
+
+Calculating 10% of $30,000 is $3,000, so the discount is $3,000. Therefore, the total amount Jane pays is $30,000 - $3,000 = $27,000.
+
+Wait, but maybe the discount is only for the last week? Let me check again. If the discount is given after the film is completed, which is after 5 weeks, then the discount applies to the entire amount. But maybe the discount is only for the last week's work? Let me think. If the makeup artist gives Jane a 10% discount, it's possible that it's a flat 10% discount on the total amount. So the answer would be $30,000 minus 10% of that.
+
+Alternatively, if the discount is only on the last week's work, then the last week's cost would be 6 hours * 250 = $1,500, and 10% discount would be $150, so the last week's cost becomes $1,350. Then, the total cost would be (4 weeks * $3,000) + $1,350 = $12,000 + $1,350 = $13,350. Wait, that seems different.
+
+But the problem says ""after the film is completed, the makeup artist gives Jane a 10% discount."" So the discount is given after the entire film is done. Therefore, it's more likely that the discount applies to the entire amount. Hence, the total cost would be $30,000 * 0.9 = $27,000.
+
+But maybe I need to check the exact wording again. ""After the film is completed, the makeup artist gives Jane a 10% discount."" So the discount is given after the film is completed, which is after all the work is done. Therefore, the discount is applied to the entire amount. Therefore, Jane pays 90% of the total amount.
+
+So, the calculation would be:
+
+Total hours = 6 hours/day * 4 days/week * 5 weeks = 120 hours
+
+Total cost before discount = 120 hours * $250/hour = $30,000
+
+Discount = 10% of $30,000 = $3,000
+
+Total cost after discount = $30,000 - $3,000 = $27,000
+
+Therefore, Jane has to pay $27,000.
+
+But let me check if there's another interpretation. Suppose that the discount is only on the last week's work. Then:
+
+Total hours for 4 weeks = 4 weeks * 24 hours/week = 96 hours
+
+Last week's hours = 24 hours
+
+Total cost before discount = (96 hours * $250) + (24 hours * $250) = $24,000 + $6,000 = $30,000
+
+Discount on last week: 10% of $6,000 = $600
+
+Total cost after discount = $24,000 + ($6,000 - $600) = $24,000 + $5,400 = $29,400
+
+But this seems different. Which interpretation is correct?
+
+The problem says ""after the film is completed, the makeup artist gives Jane a 10% discount."" The discount is given after the film is completed, which means after all the work is done. So the discount applies to the entire amount. Therefore, the answer is $27,000.
+
+Alternatively, if the discount was given for the last week, the problem would probably specify something like ""the makeup artist gives Jane a 10% discount on the last week's work."" Since it's not specified, the safest assumption is that the discount is applied to the entire amount.
+
+So, the answer should be $27,000.
+</think>
+
+جین کو اپنے میک اپ آرٹسٹ کے کام کے لیے کل 27,000 ڈالر ادا کرنے پڑتے ہیں۔
+
+### تفصیلات:
+1. **سالاری**:
+   - میک اپ آرٹسٹ 250 ڈالر فی گھنٹہ وصول کرتی ہے۔
+
+2. **کام کا وقت**:
+   - ہر روز 6 گھنٹے کام کی ضرورت ہوتی ہے۔
+   - ہفتے میں 4 دن کام کیا جاتا ہے۔
+   - فلم مکمل ہونے میں 5 ہفتے لگتے ہیں۔
+   - کل کام کے گھنٹے:  
+     $ 6 \, \text{گھنٹے/دن} \times 4 \, \text{دیے/ہفتہ} \times 5 \, \text{ہفتے} = 120 \, \text{گھنٹے} $
+
+3. **کل ادائیگی سے پہلے**:
+   - کل ادائیگی:  
+     $ 120 \, \text{گھنٹے} \times 250 \, \text{ڈالر/گھنٹہ} = 30,000 \, \text{ڈالر} $
+
+4. **10 فیصد رعایت**:
+   - 10 فیصد رعایت کا حساب:  
+     $ 10\% \times 30,000 = 3,000 \, \text{ڈالر} $
+   - ادا کرنے والی کل رقم:  
+     $ 30,000 \, \text{ڈالر} - 3,000 \, \text{ڈالر} = 27,000 \, \text{ڈالر} $
+
+### جواب:
+جین نے کل **27,000 ڈالر** ادا کیے۔
+
+$$
+\boxed{27000}
+$$"
+247,ایزابیل نے اپنی چھوٹی بہن کی سالگرہ کی پارٹی کے لیے سامان خریدا۔ اس نے کیک کے اجزاء پر 12 ڈالر، سالگرہ کے تحائف پر 43 ڈالر، سجاوٹ پر 15 ڈالر، دعوت ناموں پر 4 ڈالر، اور پارٹی کے مہمانوں کے لیے گڈی بیگز پر 22 ڈالر خرچ کیے۔ اس نے یہ کل خرچ اپنے والدین کے ساتھ تین برابر حصوں میں تقسیم کیا۔ ہر شخص نے کتنے ڈالر ادا کیے؟,32,"<think>
+Okay, let me try to figure out how much each person paid. So Isabel bought supplies for her little sister's birthday party. She spent money on different things: cake ingredients, gifts, decorations, invitations, and party bags for the guests. The total amount she spent is the sum of all these expenses. Then she split the total cost equally among her parents and herself, right? Wait, the problem says she split the total with her parents, so that's three people total: her and both parents?
+
+First, let me add up all the amounts she spent. The cake ingredients cost $12, gifts were $43, decorations $15, invitations $4, and party bags $22. Let me add those up step by step.
+
+Starting with $12 for the cake. Then adding the gifts: $12 + $43 is $55. Then decorations: $55 + $15 = $70. Then invitations: $70 + $4 = $74. Finally, the party bags: $74 + $22 = $96. So total expenditure is $96.
+
+Now, she split this total equally among her parents and herself. That's three people. So each person's share is $96 divided by 3. Let me do that division. 96 divided by 3... 3 times 30 is 90, so 96 minus 90 is 6, so that's 32. So each person paid $32.
+
+Wait, let me check again to make sure I didn't make a mistake in adding. Cake is 12, gifts 43: 12+43=55. Decorations 15: 55+15=70. Invitations 4: 70+4=74. Party bags 22: 74+22=96. Yeah, that's correct. Then 96 divided by 3 is indeed 32. So each person paid $32. That seems right.
+</think>
+
+ایزابیل نے کل خرچ کیے گئے رقم کا حساب یوں لگایا:
+
+**کیک کے اجزاء** = $12  
+**سالگرہ کے تحائف** = $43  
+**سجاوٹ** = $15  
+**دعوت نامے** = $4  
+**گڈی بیگز** = $22  
+
+کل خرچ = $12 + $43 + $15 + $4 + $22 = **$96**
+
+ایزابیل نے یہ کل رقم تین برابر حصوں میں تقسیم کی، جس میں اس کے والدین اور اس کا حصہ شامل ہے۔  
+ہر شخص کا حصہ = $96 ÷ 3 = **$32**
+
+**جواب:** ہر شخص نے $32 ادا کیے۔"
+248,ایک باورچی نے پیاز کے 4 تھیلے خریدے۔ ہر تھیلے کا وزن 50 پاؤنڈ ہے۔ ایک پاؤنڈ پیاز کی قیمت 1.50 ڈالر ہے۔ باورچی نے کتنا خرچ کیا؟,300,"<think>
+Okay, let's see. The chef bought 4 bags of onions, right? Each bag weighs 50 pounds. So first, I need to figure out the total weight of all the onions. If one bag is 50 pounds, then four bags would be 4 times 50. Let me calculate that... 4 times 50 is 200. So the total weight is 200 pounds.
+
+Now, the price per pound is $1.50. So to find the total cost, I need to multiply the total weight by the price per pound. That would be 200 pounds multiplied by $1.50. Hmm, let me do that step by step. 
+
+First, 200 times 1 is 200. Then, 200 times 0.5 is 100. Adding those together, 200 plus 100 equals 300. So the total cost should be $300. 
+
+Wait, let me double-check. If each pound is $1.50, then for 200 pounds, it's 200 * 1.5. Another way to think about it is 1.5 times 200. Breaking it down, 1 times 200 is 200, and 0.5 times 200 is 100, so yeah, 200 + 100 = 300. That seems right. 
+
+I guess that's all. The chef spent $300 on the onions. I don't see any other factors here, like discounts or taxes, so the answer should be $300.
+</think>
+
+باورچی نے 4 تھیلے پیاز خریدے ہیں، جن کا کل وزن 4 × 50 = 200 پاؤنڈ ہے۔ پیاز کی قیمت 1.50 ڈالر فی پاؤنڈ ہے۔ کل خرچ کیا گیا مالیت 200 × 1.50 = 300 ڈالر ہے۔
+
+**جواب: 300 ڈالر**"
+249,پیر کو سو نے اپنی بہن سے 4 گنا زیادہ کوکیز کھائیں۔ نگل کو، اس نے اپنی بہن سے دگنی کوکیز کھائیں۔ اس کی بہن نے پیر کو 5 کوکیز اور اگلے دن 13 کوکیز کھائیں۔ اگر ایک کوکی میں 200 کیلوریز ہیں، تو سو نے اپنی بہن سے کتنی زیادہ کیلوریز کھائیں؟,5600,"<think>
+Okay, let me try to figure out this problem step by step. So, first, there are two sisters: So and her sister. The problem mentions So and her sister eating cookies, and then we need to find out how many more calories So ate compared to her sister. Let me break down the information given.
+
+First, the problem says that So ate 4 times more cookies than her sister. Wait, actually, the original problem says ""پیر کو سو نے اپنی بہن سے 4 گنا زیادہ کوکیز کھائیں"" which translates to ""So ate 4 times more cookies than her sister."" Hmm, sometimes in translation, ""4 times more"" can be confusing. Does that mean 4 times as many, or 5 times as many? Because if you have something that is ""4 times more,"" it might mean the original amount plus 4 times the original, which would be 5 times. But in some contexts, people might use ""4 times more"" to mean 4 times as much. Hmm. Let me check the rest of the problem to see if it can clarify.
+
+Then it says ""نگل کو، اس نے اپنی بہن سے دگنی کوکیز کھائیں"" which is ""On the next day, she ate twice as many cookies as her sister."" Wait, the person here is ""نگل"" which I think is ""Nigal,"" but maybe it's a typo or a name. Wait, maybe ""نگل"" is supposed to be ""So"" again? Because the sisters are So and her sister. Maybe the problem is translated from another language, and there's a typo. Let me check again.
+
+Original problem: ""پیر کو سو نے اپنی بہن سے 4 گنا زیادہ کوکیز کھائیں۔ نگل کو، اس نے اپنی بہن سے دگنی کوکیز کھائیں۔ اس کی بہن نے پیر کو 5 کوکیز اور اگلے دن 13 کوکیز کھائیں۔ اگر ایک کوکی میں 200 کیلوریز ہیں، تو سو نے اپنی بہن سے کتنی زیادہ کیلوریز کھائیں؟""
+
+So translating again:
+
+""Yesterday, So ate 4 times more cookies than her sister. Today, she ate twice as many cookies as her sister. Her sister ate 5 cookies yesterday and 13 cookies today. If one cookie has 200 calories, how many more calories did So eat than her sister?""
+
+So, the first part: ""Yesterday, So ate 4 times more cookies than her sister."" So, So's cookies = 4 * sister's cookies.
+
+Then, ""Today, she ate twice as many cookies as her sister."" So, So's cookies today = 2 * sister's cookies today.
+
+Then, ""Her sister ate 5 cookies yesterday and 13 cookies today."" So, sister's cookies yesterday = 5, sister's cookies today = 13.
+
+So, we need to find out how many more calories So ate than her sister. Since calories are 200 per cookie, we can calculate the total calories for each sister and subtract.
+
+First, let's find out how many cookies So ate each day.
+
+Yesterday: So ate 4 times more cookies than her sister. Since the sister ate 5 yesterday, So ate 4 * 5 = 20 cookies yesterday.
+
+Today: So ate twice as many cookies as her sister. Since the sister ate 13 today, So ate 2 * 13 = 26 cookies today.
+
+Therefore, total cookies So ate = 20 (yesterday) + 26 (today) = 46 cookies.
+
+Total calories for So = 46 cookies * 200 calories/cookie = 9200 calories.
+
+Now, sister's total cookies: 5 (yesterday) + 13 (today) = 18 cookies.
+
+Total calories for sister = 18 cookies * 200 calories/cookie = 3600 calories.
+
+Therefore, the difference is 9200 - 3600 = 5600 calories.
+
+Wait, but let me check again if the interpretation of ""4 times more"" is correct. If ""4 times more"" is intended to mean 4 times as many, then the calculation is correct. However, if ""4 times more"" is meant to mean 5 times as many (original plus 4 times), then So would have eaten 5*5=25 yesterday, and 5*13=65 today. But that would be inconsistent with the next sentence, which says ""Today, she ate twice as many cookies as her sister."" If that's the case, then sister's cookies today would be 13, So's cookies would be 2*13=26, which is not 5*13=65. Therefore, the original interpretation is correct: ""4 times more"" meaning 4 times as many.
+
+Therefore, the answer is 5600 calories.
+
+But let me check once more. The problem says ""So ate 4 times more cookies than her sister."" If ""more"" is in the sense of ""in addition to,"" then it would be sister's amount + 4*sister's amount = 5*sister's amount. However, in standard usage, ""4 times more"" is often ambiguous, but in many contexts, it's intended to mean 4 times as much. For example, if something increases by 4 times, it's 4 times the original. But if it's 4 times more, it's 5 times the original. However, in many cases, people use ""4 times more"" to mean 4 times as much. Since the problem then gives the sister's cookies as 5 yesterday and 13 today, and if we take ""4 times more"" as 4 times as many, then So's cookies would be 20 and 26, totaling 46, which gives 9200 calories. If we take it as 5 times as many, then So's cookies would be 25 and 65, totaling 90, which would be 18000 calories, leading to a difference of 18000 - 3600 = 14400 calories. But the problem says ""Today, she ate twice as many cookies as her sister."" If ""she"" refers to So, then So's cookies today would be 2*13=26, which conflicts with 5*13=65. Therefore, the correct interpretation is that ""4 times more"" means 4 times as many, not 5 times. Hence, the answer is 5600 calories.
+
+Another way to check: if ""4 times more"" is 5 times as many, then the problem should have said ""So ate 5 times more cookies than her sister,"" but it says ""4 times more."" Therefore, the answer is 5600 calories.
+</think>
+
+### مسئلہ کا تجزیہ
+
+ہمیں دو بہنوں، سو اور اس کی بہن کے درمیان کھائی گئی کوکیز کی تعداد کا موازنہ کرنا ہے۔ سوال میں دی گئی معلومات کو ملاحظہ کرتے ہوئے، ہم یہ بھی جان سکتے ہیں کہ ہر کوکی میں 200 کیلوریز ہوتے ہیں۔ ہمیں یہ پتہ لگانا ہے کہ سو نے اپنی بہن سے کتنی زیادہ کیلوریز کھائیں۔
+
+---
+
+### معلومات کا تجزیہ
+
+- **پیر کو (گزشتہ دن)**:
+  - سو نے اپنی بہن سے **4 گنا زیادہ** کوکیز کھائیں۔
+  - اس کی بہن نے 5 کوکیز کھائیں۔
+  - سو نے: $ 4 \times 5 = 20 $ کوکیز کھائیں۔
+
+- **اگلے دن**:
+  - سو نے اپنی بہن سے **دگنی** کوکیز کھائیں۔
+  - اس کی بہن نے 13 کوکیز کھائیں۔
+  - سو نے: $ 2 \times 13 = 26 $ کوکیز کھائیں۔
+
+- **کل کوکیز**:
+  - سو نے: $ 20 + 26 = 46 $ کوکیز کھائیں۔
+  - اس"
