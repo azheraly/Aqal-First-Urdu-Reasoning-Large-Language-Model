@@ -16,17 +16,30 @@ wandb
 weave
 
 
-
-# Name
-# Aqal‑1.0‑3B‑Base
-# Aql‑1.0‑7B‑Base
-# Aql‑1.0‑7B‑Instruct
-# Aql‑<version>‑<size>‑<variant>
-# Aql → Model brand/name (means intellect/wisdom).
-# version → e.g., 1.0 (first release).
-# size → model size in parameters (3B, 8B, etc.).
-# variant → training type or task (Base, Instruct, Reasoner, Chat, GRPO, PEFT).
-# 
+# Step	Training Loss
+# 50	0.656000
+# 100	0.624800
+# 150	0.601700
+# 200	0.584300
+# 250	0.577600
+# 300	0.569700
+# 350	0.556900
+# 400	0.551700
+# 450	0.542900
+# 500	0.541400
+# 550	0.538600
+# 600	0.538800
+# 650	0.531400
+# 700	0.529100
+# 750	0.525400
+# 800	0.520500
+# 850	0.518400
+# 900	0.524400
+# 950	0.473500
+# 1000	0.454300
+# 1050	0.450300
+# 1100	0.450800
+# 1150	0.451600
 
 
 
